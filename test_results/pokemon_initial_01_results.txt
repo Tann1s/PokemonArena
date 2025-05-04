@@ -1,0 +1,48 @@
+Welcome to the thunder dome!
+> // set the seed to 5
+> setseed,5
+> // battle between Charmander & Squirtle
+> battle,Charmander,Squirtle
+Charmander is attacking with Attack for 1 damage to Squirtle
+Squirtle has received 1 dmg, remaining hp is 24
+Squirtle is attempting to defend with Endure
+Charmander is attacking with Ember for 3 damage to Squirtle
+Squirtle successfully reduced Charmander's damage by 1 with Endure
+Squirtle has received 2 dmg, remaining hp is 22
+Squirtle is attacking with Attack for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 24
+Charmander is attacking with Flamethrower for 6 damage to Squirtle
+Squirtle has received 6 dmg, remaining hp is 16
+Squirtle is attempting to defend with Protect
+Charmander is attacking with Flamethrower for 6 damage to Squirtle
+Squirtle successfully reduced Charmander's damage by 3 with Protect
+Squirtle has received 3 dmg, remaining hp is 13
+Squirtle is attacking with Attack for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 23
+Charmander is attacking with Scratch for 2 damage to Squirtle
+Squirtle has received 2 dmg, remaining hp is 11
+Squirtle is attempting to defend with Protect
+Charmander is attempting to defend with Endure
+Squirtle is attacking with Attack for 1 damage to Charmander
+Charmander successfully reduced Squirtle's damage by 1 with Endure
+Charmander has received 0 dmg, remaining hp is 23
+Charmander is attacking with Scratch for 2 damage to Squirtle
+Squirtle has received 2 dmg, remaining hp is 9
+Squirtle is attempting to defend with Endure
+Charmander is attacking with Flamethrower for 6 damage to Squirtle
+Squirtle successfully reduced Charmander's damage by 1 with Endure
+Squirtle has received 5 dmg, remaining hp is 4
+Squirtle is attacking with Attack for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 22
+Charmander is attacking with Scratch for 2 damage to Squirtle
+Squirtle has received 2 dmg, remaining hp is 2
+Squirtle is attempting to defend with Endure
+Charmander is attacking with Ember for 3 damage to Squirtle
+Squirtle successfully reduced Charmander's damage by 1 with Endure
+Squirtle has received 2 dmg, remaining hp is 0
+Squirtle has lost
+Charmander has won the battle
+> // stop
+> stop
+stop acknowledged
+simulation terminated

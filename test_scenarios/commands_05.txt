@@ -1,0 +1,17 @@
+// set the seed to 5
+setseed,5
+// battle between Pikachu & Snorlax
+battle,Pikachu,Snorlax
+// battle between Bulbasaur & Pikachu
+battle,Bulbasaur,Pikachu
+// set the seed to 47
+setseed,47
+// battle between Snorlax & Pikachu
+battle,Snorlax,Pikachu
+// remove the seed
+removeseed
+setseed,287
+// battle between Snorlax & Squirtle
+battle,Snorlax,Squirtle
+// stop
+stop

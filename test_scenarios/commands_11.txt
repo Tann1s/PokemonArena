@@ -1,0 +1,6 @@
+// set the seed to 2147483646
+setseed,2147483646
+// battle between Charmander & Bulbasaur
+battle,Charmander,Bulbasaur
+// stop
+stop

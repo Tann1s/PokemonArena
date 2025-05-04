@@ -1,0 +1,26 @@
+// set the seed to 1
+setseed,1
+// battle between Ditto & Bulbasaur
+battle,Ditto,Bulbasaur
+// battle between Bulbasaur & Ditto
+battle,Bulbasaur,Ditto
+// battle between Pkkachu & Charmander
+battle,Pikachu,Charmander
+// battle between Charmander & Pikachu
+battle,Charmander,Pikachu
+// battle between Mew & Squirtle
+battle,Mew,Squirtle
+// battle between Squirtle & Mew
+battle,Squirtle,Mew
+// battle between Geodude & Squirtle
+battle,Geodude,Squirtle
+// battle between Squirtle & Geodude
+battle,Squirtle,Geodude
+// battle between Snorlax & Charmander
+battle,Snorlax,Charmander
+// battle between Charmander & Snorlax
+battle,Charmander,Snorlax
+// battle between Snorlax & Slowpoke
+battle,Snorlax,Slowpoke
+// stop
+stop

@@ -1,0 +1,98 @@
+Welcome to the thunder dome!
+> // set the seed to 2147483646
+> setseed,2147483646
+> // battle between Charmander & Bulbasaur
+> battle,Charmander,Bulbasaur
+Charmander is attacking with Ember for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 22
+Bulbasaur is attempting to defend with Block
+Charmander is attempting to defend with Protect
+Bulbasaur is attacking with Leaf Storm for 6 damage to Charmander
+Charmander successfully reduced Bulbasaur's damage by 3 with Protect
+Charmander has received 3 dmg, remaining hp is 22
+Charmander is attacking with Flamethrower for 6 damage to Bulbasaur
+Bulbasaur has received 6 dmg, remaining hp is 16
+Bulbasaur is attempting to defend with Block
+Charmander is attacking with Ember for 3 damage to Bulbasaur
+Bulbasaur successfully reduced Charmander's damage by 2 with Block
+Bulbasaur has received 1 dmg, remaining hp is 15
+Bulbasaur is attempting to defend with Endure
+Charmander is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur successfully reduced Charmander's damage by 1 with Endure
+Bulbasaur has received 0 dmg, remaining hp is 15
+Bulbasaur is attacking with Leaf Storm for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 16
+Charmander is attempting to defend with Protect
+Bulbasaur is attempting to defend with Endure
+Charmander is attempting to defend with Block
+Bulbasaur is attempting to defend with Protect
+Charmander is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur successfully reduced Charmander's damage by 3 with Protect
+Bulbasaur has received 0 dmg, remaining hp is 15
+Bulbasaur is attempting to defend with Protect
+Charmander is attempting to defend with Block
+Bulbasaur is attempting to defend with Block
+Charmander is attacking with Ember for 3 damage to Bulbasaur
+Bulbasaur successfully reduced Charmander's damage by 2 with Block
+Bulbasaur has received 1 dmg, remaining hp is 14
+Bulbasaur is attempting to defend with Block
+Charmander is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur successfully reduced Charmander's damage by 2 with Block
+Bulbasaur has received 0 dmg, remaining hp is 14
+Bulbasaur is attacking with Razor Leaf for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 13
+Charmander is attempting to defend with Endure
+Bulbasaur is attacking with Razor Leaf for 3 damage to Charmander
+Charmander successfully reduced Bulbasaur's damage by 1 with Endure
+Charmander has received 2 dmg, remaining hp is 11
+Charmander is attempting to defend with Endure
+Bulbasaur is attacking with Vine Whip for 2 damage to Charmander
+Charmander successfully reduced Bulbasaur's damage by 1 with Endure
+Charmander has received 1 dmg, remaining hp is 10
+Charmander is attempting to defend with Block
+Bulbasaur is attacking with Vine Whip for 2 damage to Charmander
+Charmander successfully reduced Bulbasaur's damage by 2 with Block
+Charmander has received 0 dmg, remaining hp is 10
+Charmander is attempting to defend with Endure
+Bulbasaur is attacking with Leaf Storm for 6 damage to Charmander
+Charmander successfully reduced Bulbasaur's damage by 1 with Endure
+Charmander has received 5 dmg, remaining hp is 5
+Charmander is attempting to defend with Endure
+Bulbasaur is attempting to defend with Endure
+Charmander is attacking with Scratch for 2 damage to Bulbasaur
+Bulbasaur successfully reduced Charmander's damage by 1 with Endure
+Bulbasaur has received 1 dmg, remaining hp is 13
+Bulbasaur is attempting to defend with Protect
+Charmander is attempting to defend with Block
+Bulbasaur is attacking with Vine Whip for 2 damage to Charmander
+Charmander successfully reduced Bulbasaur's damage by 2 with Block
+Charmander has received 0 dmg, remaining hp is 5
+Charmander is attempting to defend with Protect
+Bulbasaur is attacking with Vine Whip for 2 damage to Charmander
+Charmander successfully reduced Bulbasaur's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 5
+Charmander is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 12
+Bulbasaur is attempting to defend with Protect
+Charmander is attempting to defend with Endure
+Bulbasaur is attacking with Tackle for 1 damage to Charmander
+Charmander successfully reduced Bulbasaur's damage by 1 with Endure
+Charmander has received 0 dmg, remaining hp is 5
+Charmander is attempting to defend with Protect
+Bulbasaur is attacking with Vine Whip for 2 damage to Charmander
+Charmander successfully reduced Bulbasaur's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 5
+Charmander is attempting to defend with Endure
+Bulbasaur is attacking with Vine Whip for 2 damage to Charmander
+Charmander successfully reduced Bulbasaur's damage by 1 with Endure
+Charmander has received 1 dmg, remaining hp is 4
+Charmander is attempting to defend with Block
+Bulbasaur is attacking with Leaf Storm for 6 damage to Charmander
+Charmander successfully reduced Bulbasaur's damage by 2 with Block
+Charmander has received 4 dmg, remaining hp is 0
+Charmander has lost
+Bulbasaur has won the battle
+> // stop
+> stop
+stop acknowledged
+simulation terminated

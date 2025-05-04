@@ -1,0 +1,22 @@
+// set the seed to 1
+setseed,1
+// battle between Ditto & Bulbasaur
+battle,Ditto,Bulbasaur
+// set the seed to 2
+setseed,2
+// battle between Ditto & Bulbasaur
+battle,Ditto,Bulbasaur
+// set the seed to 3
+setseed,3
+// battle between Ditto & Bulbasaur
+battle,Ditto,Bulbasaur
+// set the seed to 4
+setseed,4
+// battle between Ditto & Bulbasaur
+battle,Ditto,Bulbasaur
+// set the seed to 5
+setseed,5
+// battle between Ditto & Bulbasaur
+battle,Ditto,Bulbasaur
+// stop
+stop

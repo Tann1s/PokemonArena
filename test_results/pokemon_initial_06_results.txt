@@ -1,0 +1,194 @@
+Welcome to the thunder dome!
+> // set the seed to 10
+> setseed,10
+> // battle between Mew & Snorlax
+> battle,Mew,Snorlax
+Mew is attacking with Pound for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 39
+Snorlax is attacking with Snore for 6 damage to Mew
+Mew has received 6 dmg, remaining hp is 19
+Mew is attacking with Pound for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 38
+Snorlax is attempting to defend with Endure
+Mew is attacking with Imprison for 2 damage to Snorlax
+Snorlax successfully reduced Mew's damage by 1 with Endure
+Snorlax has received 1 dmg, remaining hp is 37
+Snorlax is attacking with Rest for 0 damage to Mew
+Mew is attacking with Pound for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 36
+Snorlax is attempting to defend with Protect
+Mew is attempting to defend with Block
+Snorlax is attacking with Rest for 0 damage to Mew
+Mew is attacking with Imprison for 2 damage to Snorlax
+Snorlax has received 2 dmg, remaining hp is 34
+Snorlax is attacking with Snore for 6 damage to Mew
+Mew has received 6 dmg, remaining hp is 13
+Mew is attempting to defend with Endure
+Snorlax is attacking with Rest for 0 damage to Mew
+Mew is attacking with Pound for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 33
+Snorlax is attacking with Snore for 6 damage to Mew
+Mew has received 6 dmg, remaining hp is 7
+Mew is attempting to defend with Block
+Snorlax is attacking with Rest for 0 damage to Mew
+Mew is attempting to defend with Block
+Snorlax is attacking with Rest for 0 damage to Mew
+Mew is attempting to defend with Block
+Snorlax is attacking with Snore for 6 damage to Mew
+Mew successfully reduced Snorlax's damage by 2 with Block
+Mew has received 4 dmg, remaining hp is 3
+Mew is attempting to defend with Protect
+Snorlax is attempting to defend with Block
+Mew is attempting to defend with Block
+Snorlax is attacking with Rest for 0 damage to Mew
+Mew is attempting to defend with Protect
+Snorlax is attempting to defend with Protect
+Mew is attacking with Charm for 0 damage to Snorlax
+Snorlax is attacking with Snore for 6 damage to Mew
+Mew has received 6 dmg, remaining hp is 0
+Mew has lost
+Snorlax has won the battle
+> // set the seed to 67
+> setseed,67
+> // battle between Mew & Snorlax
+> battle,Mew,Snorlax
+Mew is attacking with Psychic for 15 damage to Snorlax
+Snorlax has received 15 dmg, remaining hp is 25
+Snorlax is attacking with Rest for 0 damage to Mew
+Mew is attacking with Charm for 0 damage to Snorlax
+Snorlax is attacking with Rest for 0 damage to Mew
+Mew is attacking with Charm for 0 damage to Snorlax
+Snorlax is attacking with Snore for 6 damage to Mew
+Mew has received 6 dmg, remaining hp is 19
+Mew is attacking with Pound for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 24
+Snorlax is attacking with Snore for 6 damage to Mew
+Mew has received 6 dmg, remaining hp is 13
+Mew is attempting to defend with Endure
+Snorlax is attacking with Snore for 6 damage to Mew
+Mew successfully reduced Snorlax's damage by 1 with Endure
+Mew has received 5 dmg, remaining hp is 8
+Mew is attacking with Psychic for 15 damage to Snorlax
+Snorlax has received 15 dmg, remaining hp is 9
+Snorlax is attempting to defend with Protect
+Mew is attacking with Charm for 0 damage to Snorlax
+Snorlax is attempting to defend with Protect
+Mew is attempting to defend with Protect
+Snorlax is attempting to defend with Block
+Mew is attacking with Psychic for 15 damage to Snorlax
+Snorlax successfully reduced Mew's damage by 2 with Block
+Snorlax has received 13 dmg, remaining hp is 0
+Snorlax has lost
+Mew has won the battle
+> // remove the seed
+> removeseed
+> // set the seed to 77
+> setseed,77
+> // battle between Geodude & Charmander
+> battle,Geodude,Charmander
+Geodude is attacking with Earth Quake for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 22
+Charmander is attempting to defend with Protect
+Geodude is attacking with Rock Throw for 2 damage to Charmander
+Charmander successfully reduced Geodude's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 22
+Charmander is attempting to defend with Protect
+Geodude is attempting to defend with Block
+Charmander is attacking with Attack for 1 damage to Geodude
+Geodude successfully reduced Charmander's damage by 2 with Block
+Geodude has received 0 dmg, remaining hp is 25
+Geodude is attempting to defend with Block
+Charmander is attacking with Attack for 1 damage to Geodude
+Geodude successfully reduced Charmander's damage by 2 with Block
+Geodude has received 0 dmg, remaining hp is 25
+Geodude is attempting to defend with Protect
+Charmander is attacking with Ember for 3 damage to Geodude
+Geodude successfully reduced Charmander's damage by 3 with Protect
+Geodude has received 0 dmg, remaining hp is 25
+Geodude is attempting to defend with Endure
+Charmander is attacking with Flamethrower for 6 damage to Geodude
+Geodude successfully reduced Charmander's damage by 1 with Endure
+Geodude has received 5 dmg, remaining hp is 20
+Geodude is attacking with Earth Quake for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 19
+Charmander is attempting to defend with Protect
+Geodude is attempting to defend with Protect
+Charmander is attempting to defend with Protect
+Geodude is attacking with Rock Throw for 2 damage to Charmander
+Charmander successfully reduced Geodude's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 19
+Charmander is attempting to defend with Protect
+Geodude is attempting to defend with Block
+Charmander is attacking with Attack for 1 damage to Geodude
+Geodude successfully reduced Charmander's damage by 2 with Block
+Geodude has received 0 dmg, remaining hp is 20
+Geodude is attempting to defend with Protect
+Charmander is attacking with Flamethrower for 6 damage to Geodude
+Geodude successfully reduced Charmander's damage by 3 with Protect
+Geodude has received 3 dmg, remaining hp is 17
+Geodude is attacking with Rock Throw for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 17
+Charmander is attacking with Flamethrower for 6 damage to Geodude
+Geodude has received 6 dmg, remaining hp is 11
+Geodude is attacking with Rock Slide for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 11
+Charmander is attempting to defend with Block
+Geodude is attempting to defend with Protect
+Charmander is attacking with Flamethrower for 6 damage to Geodude
+Geodude successfully reduced Charmander's damage by 3 with Protect
+Geodude has received 3 dmg, remaining hp is 8
+Geodude is attacking with Rock Slide for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 5
+Charmander is attempting to defend with Endure
+Geodude is attempting to defend with Block
+Charmander is attempting to defend with Endure
+Geodude is attacking with Tackle for 1 damage to Charmander
+Charmander successfully reduced Geodude's damage by 1 with Endure
+Charmander has received 0 dmg, remaining hp is 5
+Charmander is attempting to defend with Endure
+Geodude is attempting to defend with Block
+Charmander is attempting to defend with Endure
+Geodude is attempting to defend with Block
+Charmander is attacking with Attack for 1 damage to Geodude
+Geodude successfully reduced Charmander's damage by 2 with Block
+Geodude has received 0 dmg, remaining hp is 8
+Geodude is attempting to defend with Protect
+Charmander is attempting to defend with Block
+Geodude is attempting to defend with Protect
+Charmander is attempting to defend with Block
+Geodude is attempting to defend with Protect
+Charmander is attempting to defend with Block
+Geodude is attempting to defend with Endure
+Charmander is attempting to defend with Protect
+Geodude is attacking with Rock Throw for 2 damage to Charmander
+Charmander successfully reduced Geodude's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 5
+Charmander is attempting to defend with Endure
+Geodude is attacking with Rock Throw for 2 damage to Charmander
+Charmander successfully reduced Geodude's damage by 1 with Endure
+Charmander has received 1 dmg, remaining hp is 4
+Charmander is attempting to defend with Protect
+Geodude is attacking with Rock Slide for 6 damage to Charmander
+Charmander successfully reduced Geodude's damage by 3 with Protect
+Charmander has received 3 dmg, remaining hp is 1
+Charmander is attempting to defend with Protect
+Geodude is attempting to defend with Endure
+Charmander is attempting to defend with Block
+Geodude is attempting to defend with Protect
+Charmander is attempting to defend with Block
+Geodude is attempting to defend with Block
+Charmander is attacking with Flamethrower for 6 damage to Geodude
+Geodude successfully reduced Charmander's damage by 2 with Block
+Geodude has received 4 dmg, remaining hp is 4
+Geodude is attempting to defend with Block
+Charmander is attacking with Ember for 3 damage to Geodude
+Geodude successfully reduced Charmander's damage by 2 with Block
+Geodude has received 1 dmg, remaining hp is 3
+Geodude is attacking with Rock Throw for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 0
+Charmander has lost
+Geodude has won the battle
+> // stop
+> stop
+stop acknowledged
+simulation terminated

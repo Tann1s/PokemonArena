@@ -1,0 +1,6 @@
+// set the seed to 30
+setseed,30
+// battle between Bulbasaur & Squirtle
+battle,Bulbasaur,Squirtle
+// stop
+stop

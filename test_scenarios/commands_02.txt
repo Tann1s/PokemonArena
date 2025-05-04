@@ -1,0 +1,10 @@
+// set the seed to 1
+setseed,1
+// remove the seed
+removeseed
+// set the seed to 10
+setseed,10
+// battle between Bulbasaur & Pikachu
+battle,Bulbasaur,Pikachu
+// stop
+stop

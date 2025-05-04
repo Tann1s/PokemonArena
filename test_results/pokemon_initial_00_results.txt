@@ -1,0 +1,82 @@
+Welcome to the thunder dome!
+> // set the seed to 1
+> setseed,1
+> // battle between Charmander & Squirtle
+> battle,Charmander,Squirtle
+Charmander is attacking with Attack for 1 damage to Squirtle
+Squirtle has received 1 dmg, remaining hp is 24
+Squirtle is attacking with Tackle for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 23
+Charmander is attacking with Scratch for 2 damage to Squirtle
+Squirtle has received 2 dmg, remaining hp is 22
+Squirtle is attempting to defend with Block
+Charmander is attacking with Attack for 1 damage to Squirtle
+Squirtle successfully reduced Charmander's damage by 2 with Block
+Squirtle has received 0 dmg, remaining hp is 22
+Squirtle is attacking with Hydro Pump for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 17
+Charmander is attempting to defend with Block
+Squirtle is attacking with Attack for 1 damage to Charmander
+Charmander successfully reduced Squirtle's damage by 2 with Block
+Charmander has received 0 dmg, remaining hp is 17
+Charmander is attacking with Ember for 3 damage to Squirtle
+Squirtle has received 3 dmg, remaining hp is 19
+Squirtle is attacking with Hydro Pump for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 11
+Charmander is attacking with Attack for 1 damage to Squirtle
+Squirtle has received 1 dmg, remaining hp is 18
+Squirtle is attacking with Tackle for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 9
+Charmander is attacking with Attack for 1 damage to Squirtle
+Squirtle has received 1 dmg, remaining hp is 17
+Squirtle is attempting to defend with Endure
+Charmander is attempting to defend with Block
+Squirtle is attempting to defend with Protect
+Charmander is attempting to defend with Endure
+Squirtle is attacking with Attack for 1 damage to Charmander
+Charmander successfully reduced Squirtle's damage by 1 with Endure
+Charmander has received 0 dmg, remaining hp is 9
+Charmander is attacking with Scratch for 2 damage to Squirtle
+Squirtle has received 2 dmg, remaining hp is 15
+Squirtle is attempting to defend with Protect
+Charmander is attacking with Flamethrower for 6 damage to Squirtle
+Squirtle successfully reduced Charmander's damage by 3 with Protect
+Squirtle has received 3 dmg, remaining hp is 12
+Squirtle is attacking with Attack for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 8
+Charmander is attempting to defend with Protect
+Squirtle is attacking with Hydro Pump for 6 damage to Charmander
+Charmander successfully reduced Squirtle's damage by 3 with Protect
+Charmander has received 3 dmg, remaining hp is 5
+Charmander is attempting to defend with Protect
+Squirtle is attacking with Tackle for 2 damage to Charmander
+Charmander successfully reduced Squirtle's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 5
+Charmander is attacking with Flamethrower for 6 damage to Squirtle
+Squirtle has received 6 dmg, remaining hp is 6
+Squirtle is attempting to defend with Protect
+Charmander is attacking with Ember for 3 damage to Squirtle
+Squirtle successfully reduced Charmander's damage by 3 with Protect
+Squirtle has received 0 dmg, remaining hp is 6
+Squirtle is attempting to defend with Block
+Charmander is attempting to defend with Block
+Squirtle is attacking with Water Gun for 3 damage to Charmander
+Charmander successfully reduced Squirtle's damage by 2 with Block
+Charmander has received 1 dmg, remaining hp is 4
+Charmander is attempting to defend with Block
+Squirtle is attacking with Water Gun for 3 damage to Charmander
+Charmander successfully reduced Squirtle's damage by 2 with Block
+Charmander has received 1 dmg, remaining hp is 3
+Charmander is attempting to defend with Endure
+Squirtle is attempting to defend with Protect
+Charmander is attacking with Ember for 3 damage to Squirtle
+Squirtle successfully reduced Charmander's damage by 3 with Protect
+Squirtle has received 0 dmg, remaining hp is 6
+Squirtle is attacking with Hydro Pump for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 0
+Charmander has lost
+Squirtle has won the battle
+> // stop
+> stop
+stop acknowledged
+simulation terminated

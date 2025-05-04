@@ -1,0 +1,291 @@
+Welcome to the thunder dome!
+> // set the seed to 5
+> setseed,5
+> // battle between Pikachu & Snorlax
+> battle,Pikachu,Snorlax
+Pikachu is attacking with Growl for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 39
+Snorlax is attempting to defend with Endure
+Pikachu is attacking with Thunder Shock for 3 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 1 with Endure
+Snorlax has received 2 dmg, remaining hp is 37
+Snorlax is attacking with Rest for 0 damage to Pikachu
+Pikachu is attacking with Thunder for 6 damage to Snorlax
+Snorlax has received 6 dmg, remaining hp is 31
+Snorlax is attempting to defend with Protect
+Pikachu is attacking with Thunder for 6 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 3 with Protect
+Snorlax has received 3 dmg, remaining hp is 28
+Snorlax is attacking with Rest for 0 damage to Pikachu
+Pikachu is attacking with Tail Whip for 2 damage to Snorlax
+Snorlax has received 2 dmg, remaining hp is 26
+Snorlax is attempting to defend with Protect
+Pikachu is attempting to defend with Endure
+Snorlax is attacking with Rest for 0 damage to Pikachu
+Pikachu is attacking with Tail Whip for 2 damage to Snorlax
+Snorlax has received 2 dmg, remaining hp is 24
+Snorlax is attempting to defend with Endure
+Pikachu is attacking with Thunder for 6 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 1 with Endure
+Snorlax has received 5 dmg, remaining hp is 19
+Snorlax is attacking with Rest for 0 damage to Pikachu
+Pikachu is attacking with Tail Whip for 2 damage to Snorlax
+Snorlax has received 2 dmg, remaining hp is 17
+Snorlax is attempting to defend with Endure
+Pikachu is attacking with Thunder Shock for 3 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 1 with Endure
+Snorlax has received 2 dmg, remaining hp is 15
+Snorlax is attempting to defend with Protect
+Pikachu is attacking with Tail Whip for 2 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 3 with Protect
+Snorlax has received 0 dmg, remaining hp is 15
+Snorlax is attacking with Snore for 6 damage to Pikachu
+Pikachu has received 6 dmg, remaining hp is 19
+Pikachu is attacking with Tail Whip for 2 damage to Snorlax
+Snorlax has received 2 dmg, remaining hp is 13
+Snorlax is attacking with Snore for 6 damage to Pikachu
+Pikachu has received 6 dmg, remaining hp is 13
+Pikachu is attempting to defend with Block
+Snorlax is attacking with Rest for 0 damage to Pikachu
+Pikachu is attempting to defend with Endure
+Snorlax is attempting to defend with Protect
+Pikachu is attacking with Thunder Shock for 3 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 3 with Protect
+Snorlax has received 0 dmg, remaining hp is 13
+Snorlax is attempting to defend with Protect
+Pikachu is attacking with Thunder Shock for 3 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 3 with Protect
+Snorlax has received 0 dmg, remaining hp is 13
+Snorlax is attempting to defend with Block
+Pikachu is attacking with Growl for 1 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 2 with Block
+Snorlax has received 0 dmg, remaining hp is 13
+Snorlax is attacking with Snore for 6 damage to Pikachu
+Pikachu has received 6 dmg, remaining hp is 7
+Pikachu is attacking with Thunder Shock for 3 damage to Snorlax
+Snorlax has received 3 dmg, remaining hp is 10
+Snorlax is attempting to defend with Block
+Pikachu is attempting to defend with Endure
+Snorlax is attempting to defend with Protect
+Pikachu is attacking with Tail Whip for 2 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 3 with Protect
+Snorlax has received 0 dmg, remaining hp is 10
+Snorlax is attempting to defend with Protect
+Pikachu is attempting to defend with Protect
+Snorlax is attempting to defend with Block
+Pikachu is attempting to defend with Endure
+Snorlax is attempting to defend with Endure
+Pikachu is attempting to defend with Protect
+Snorlax is attempting to defend with Block
+Pikachu is attempting to defend with Block
+Snorlax is attempting to defend with Block
+Pikachu is attempting to defend with Endure
+Snorlax is attacking with Rest for 0 damage to Pikachu
+Pikachu is attempting to defend with Protect
+Snorlax is attempting to defend with Endure
+Pikachu is attempting to defend with Protect
+Snorlax is attempting to defend with Endure
+Pikachu is attempting to defend with Endure
+Snorlax is attempting to defend with Protect
+Pikachu is attacking with Thunder Shock for 3 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 3 with Protect
+Snorlax has received 0 dmg, remaining hp is 10
+Snorlax is attacking with Rest for 0 damage to Pikachu
+Pikachu is attacking with Thunder Shock for 3 damage to Snorlax
+Snorlax has received 3 dmg, remaining hp is 7
+Snorlax is attempting to defend with Protect
+Pikachu is attacking with Thunder Shock for 3 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 3 with Protect
+Snorlax has received 0 dmg, remaining hp is 7
+Snorlax is attempting to defend with Block
+Pikachu is attacking with Tail Whip for 2 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 2 with Block
+Snorlax has received 0 dmg, remaining hp is 7
+Snorlax is attempting to defend with Protect
+Pikachu is attacking with Growl for 1 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 3 with Protect
+Snorlax has received 0 dmg, remaining hp is 7
+Snorlax is attempting to defend with Endure
+Pikachu is attempting to defend with Protect
+Snorlax is attempting to defend with Protect
+Pikachu is attempting to defend with Endure
+Snorlax is attempting to defend with Endure
+Pikachu is attacking with Thunder for 6 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 1 with Endure
+Snorlax has received 5 dmg, remaining hp is 2
+Snorlax is attempting to defend with Endure
+Pikachu is attacking with Thunder for 6 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 1 with Endure
+Snorlax has received 5 dmg, remaining hp is 0
+Snorlax has lost
+Pikachu has won the battle
+> // battle between Bulbasaur & Pikachu
+> battle,Bulbasaur,Pikachu
+Bulbasaur is attacking with Tackle for 1 damage to Pikachu
+Pikachu has received 1 dmg, remaining hp is 24
+Pikachu is attempting to defend with Endure
+Bulbasaur is attacking with Razor Leaf for 3 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 1 with Endure
+Pikachu has received 2 dmg, remaining hp is 22
+Pikachu is attacking with Growl for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 24
+Bulbasaur is attacking with Leaf Storm for 6 damage to Pikachu
+Pikachu has received 6 dmg, remaining hp is 16
+Pikachu is attempting to defend with Protect
+Bulbasaur is attacking with Leaf Storm for 6 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 3 with Protect
+Pikachu has received 3 dmg, remaining hp is 13
+Pikachu is attacking with Growl for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 23
+Bulbasaur is attacking with Vine Whip for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 11
+Pikachu is attempting to defend with Protect
+Bulbasaur is attempting to defend with Endure
+Pikachu is attacking with Growl for 1 damage to Bulbasaur
+Bulbasaur successfully reduced Pikachu's damage by 1 with Endure
+Bulbasaur has received 0 dmg, remaining hp is 23
+Bulbasaur is attacking with Vine Whip for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 9
+Pikachu is attempting to defend with Endure
+Bulbasaur is attacking with Leaf Storm for 6 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 1 with Endure
+Pikachu has received 5 dmg, remaining hp is 4
+Pikachu is attacking with Growl for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 22
+Bulbasaur is attacking with Vine Whip for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 2
+Pikachu is attempting to defend with Endure
+Bulbasaur is attacking with Razor Leaf for 3 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 1 with Endure
+Pikachu has received 2 dmg, remaining hp is 0
+Pikachu has lost
+Bulbasaur has won the battle
+> // set the seed to 47
+> setseed,47
+> // battle between Snorlax & Pikachu
+> battle,Snorlax,Pikachu
+Snorlax is attacking with Rest for 0 damage to Pikachu
+Pikachu is attacking with Growl for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 39
+Snorlax is attacking with Rest for 0 damage to Pikachu
+Pikachu is attempting to defend with Endure
+Snorlax is attempting to defend with Protect
+Pikachu is attacking with Thunder for 6 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 3 with Protect
+Snorlax has received 3 dmg, remaining hp is 36
+Snorlax is attacking with Rest for 0 damage to Pikachu
+Pikachu is attacking with Thunder for 6 damage to Snorlax
+Snorlax has received 6 dmg, remaining hp is 30
+Snorlax is attacking with Snore for 6 damage to Pikachu
+Pikachu has received 6 dmg, remaining hp is 19
+Pikachu is attacking with Thunder Shock for 3 damage to Snorlax
+Snorlax has received 3 dmg, remaining hp is 27
+Snorlax is attacking with Snore for 6 damage to Pikachu
+Pikachu has received 6 dmg, remaining hp is 13
+Pikachu is attempting to defend with Protect
+Snorlax is attempting to defend with Block
+Pikachu is attempting to defend with Block
+Snorlax is attacking with Snore for 6 damage to Pikachu
+Pikachu successfully reduced Snorlax's damage by 2 with Block
+Pikachu has received 4 dmg, remaining hp is 9
+Pikachu is attempting to defend with Block
+Snorlax is attacking with Rest for 0 damage to Pikachu
+Pikachu is attacking with Growl for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 26
+Snorlax is attempting to defend with Block
+Pikachu is attacking with Growl for 1 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 2 with Block
+Snorlax has received 0 dmg, remaining hp is 26
+Snorlax is attacking with Rest for 0 damage to Pikachu
+Pikachu is attempting to defend with Protect
+Snorlax is attempting to defend with Endure
+Pikachu is attempting to defend with Protect
+Snorlax is attempting to defend with Endure
+Pikachu is attacking with Tail Whip for 2 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 1 with Endure
+Snorlax has received 1 dmg, remaining hp is 25
+Snorlax is attacking with Rest for 0 damage to Pikachu
+Pikachu is attacking with Thunder for 6 damage to Snorlax
+Snorlax has received 6 dmg, remaining hp is 19
+Snorlax is attempting to defend with Protect
+Pikachu is attacking with Tail Whip for 2 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 3 with Protect
+Snorlax has received 0 dmg, remaining hp is 19
+Snorlax is attempting to defend with Block
+Pikachu is attacking with Thunder for 6 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 2 with Block
+Snorlax has received 4 dmg, remaining hp is 15
+Snorlax is attempting to defend with Endure
+Pikachu is attempting to defend with Protect
+Snorlax is attempting to defend with Endure
+Pikachu is attacking with Thunder for 6 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 1 with Endure
+Snorlax has received 5 dmg, remaining hp is 10
+Snorlax is attempting to defend with Endure
+Pikachu is attempting to defend with Protect
+Snorlax is attempting to defend with Endure
+Pikachu is attacking with Tail Whip for 2 damage to Snorlax
+Snorlax successfully reduced Pikachu's damage by 1 with Endure
+Snorlax has received 1 dmg, remaining hp is 9
+Snorlax is attempting to defend with Protect
+Pikachu is attempting to defend with Endure
+Snorlax is attacking with Snore for 6 damage to Pikachu
+Pikachu successfully reduced Snorlax's damage by 1 with Endure
+Pikachu has received 5 dmg, remaining hp is 4
+Pikachu is attempting to defend with Block
+Snorlax is attempting to defend with Block
+Pikachu is attempting to defend with Endure
+Snorlax is attempting to defend with Protect
+Pikachu is attempting to defend with Endure
+Snorlax is attempting to defend with Block
+Pikachu is attempting to defend with Endure
+Snorlax is attacking with Snore for 6 damage to Pikachu
+Pikachu successfully reduced Snorlax's damage by 1 with Endure
+Pikachu has received 5 dmg, remaining hp is 0
+Pikachu has lost
+Snorlax has won the battle
+> // remove the seed
+> removeseed
+> setseed,287
+> // battle between Snorlax & Squirtle
+> battle,Snorlax,Squirtle
+Snorlax is attempting to defend with Protect
+Squirtle is attacking with Water Gun for 3 damage to Snorlax
+Snorlax successfully reduced Squirtle's damage by 3 with Protect
+Snorlax has received 0 dmg, remaining hp is 40
+Snorlax is attempting to defend with Endure
+Squirtle is attacking with Attack for 1 damage to Snorlax
+Snorlax successfully reduced Squirtle's damage by 1 with Endure
+Snorlax has received 0 dmg, remaining hp is 40
+Snorlax is attacking with Snore for 6 damage to Squirtle
+Squirtle has received 6 dmg, remaining hp is 19
+Squirtle is attacking with Tackle for 2 damage to Snorlax
+Snorlax has received 2 dmg, remaining hp is 38
+Snorlax is attacking with Snore for 6 damage to Squirtle
+Squirtle has received 6 dmg, remaining hp is 13
+Squirtle is attempting to defend with Protect
+Snorlax is attacking with Rest for 0 damage to Squirtle
+Squirtle is attacking with Water Gun for 3 damage to Snorlax
+Snorlax has received 3 dmg, remaining hp is 35
+Snorlax is attacking with Rest for 0 damage to Squirtle
+Squirtle is attempting to defend with Endure
+Snorlax is attacking with Snore for 6 damage to Squirtle
+Squirtle successfully reduced Snorlax's damage by 1 with Endure
+Squirtle has received 5 dmg, remaining hp is 8
+Squirtle is attempting to defend with Endure
+Snorlax is attacking with Snore for 6 damage to Squirtle
+Squirtle successfully reduced Snorlax's damage by 1 with Endure
+Squirtle has received 5 dmg, remaining hp is 3
+Squirtle is attacking with Attack for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 34
+Snorlax is attacking with Rest for 0 damage to Squirtle
+Squirtle is attempting to defend with Block
+Snorlax is attacking with Snore for 6 damage to Squirtle
+Squirtle successfully reduced Snorlax's damage by 2 with Block
+Squirtle has received 4 dmg, remaining hp is 0
+Squirtle has lost
+Snorlax has won the battle
+> // stop
+> stop
+stop acknowledged
+simulation terminated

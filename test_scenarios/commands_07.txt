@@ -1,0 +1,12 @@
+// set the seed to 54
+setseed,54
+// battle between Ditto & Bulbasaur
+battle,Ditto,Bulbasaur
+// remove the seed
+removeseed
+// set the seed to 67
+setseed,67
+// battle between Ditto & Bulbasaur
+battle,Ditto,Bulbasaur
+// stop
+stop

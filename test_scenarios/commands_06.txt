@@ -1,0 +1,16 @@
+// set the seed to 10
+setseed,10
+// battle between Mew & Snorlax
+battle,Mew,Snorlax
+// set the seed to 67
+setseed,67
+// battle between Mew & Snorlax
+battle,Mew,Snorlax
+// remove the seed
+removeseed
+// set the seed to 77
+setseed,77
+// battle between Geodude & Charmander
+battle,Geodude,Charmander
+// stop
+stop

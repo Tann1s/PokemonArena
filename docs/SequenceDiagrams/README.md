@@ -1,0 +1,1 @@
+Please kindly put your individual sequence diagrams into this folder

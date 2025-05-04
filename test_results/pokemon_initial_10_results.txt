@@ -1,0 +1,378 @@
+Welcome to the thunder dome!
+> // set the seed to 87
+> // display info
+> displayinfo,Pikachu
+Pokemon: Pikachu has 25 hp
+Attack Skills:
+Name: Growl Damage: 1
+Name: Tail Whip Damage: 2
+Name: Thunder Shock Damage: 3
+Name: Thunder Damage: 6
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> setseed,87
+> // battle between 2 Pokemon
+> battle,Pikachu,Ekans
+Name: Ekans was invalid and has forfeited the battle
+Ekans has lost
+Pikachu has won the battle
+> // battle between 2 Pokemon
+> battle,Ekans,Charmander
+Name: Ekans was invalid and has forfeited the battle
+Ekans has lost
+Charmander has won the battle
+> // battle between 3 pokemon
+> battle,Ekans,Rattata,Bulbasaur
+Participant size invalid.
+> // tournament with 1 Pokemon
+> tournament,Ekans
+Participant size invalid.
+> // tournament with 3 Pokemon
+> tournament,Ekans,Pikachu,Vulpix
+Participant size invalid.
+> // tournament with 4 Pokemon
+> tournament,Ekans,Vulpix,Pikachu,Charmander
+Starting tournament round 1 with Ekans and Vulpix
+Name: Ekans was invalid and has forfeited the battle
+Ekans has lost
+Vulpix has won the battle
+Vulpix has won round 1
+Starting tournament round 2 with Pikachu and Charmander
+Pikachu is attacking with Thunder Shock for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 22
+Charmander is attempting to defend with Block
+Pikachu is attacking with Tail Whip for 2 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 2 with Block
+Charmander has received 0 dmg, remaining hp is 22
+Charmander is attacking with Scratch for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 23
+Pikachu is attacking with Tail Whip for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 20
+Charmander is attacking with Attack for 1 damage to Pikachu
+Pikachu has received 1 dmg, remaining hp is 22
+Pikachu is attacking with Thunder for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 14
+Charmander is attacking with Scratch for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 20
+Pikachu is attacking with Growl for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 13
+Charmander is attacking with Flamethrower for 6 damage to Pikachu
+Pikachu has received 6 dmg, remaining hp is 14
+Pikachu is attacking with Growl for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 12
+Charmander is attempting to defend with Block
+Pikachu is attacking with Tail Whip for 2 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 2 with Block
+Charmander has received 0 dmg, remaining hp is 12
+Charmander is attempting to defend with Block
+Pikachu is attempting to defend with Protect
+Charmander is attempting to defend with Endure
+Pikachu is attacking with Tail Whip for 2 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 1 with Endure
+Charmander has received 1 dmg, remaining hp is 11
+Charmander is attacking with Ember for 3 damage to Pikachu
+Pikachu has received 3 dmg, remaining hp is 11
+Pikachu is attempting to defend with Protect
+Charmander is attacking with Ember for 3 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 3 with Protect
+Pikachu has received 0 dmg, remaining hp is 11
+Pikachu is attempting to defend with Block
+Charmander is attacking with Flamethrower for 6 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 2 with Block
+Pikachu has received 4 dmg, remaining hp is 7
+Pikachu is attacking with Thunder Shock for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 8
+Charmander is attempting to defend with Protect
+Pikachu is attempting to defend with Block
+Charmander is attempting to defend with Endure
+Pikachu is attempting to defend with Block
+Charmander is attacking with Scratch for 2 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 2 with Block
+Pikachu has received 0 dmg, remaining hp is 7
+Pikachu is attempting to defend with Endure
+Charmander is attacking with Ember for 3 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 1 with Endure
+Pikachu has received 2 dmg, remaining hp is 5
+Pikachu is attempting to defend with Protect
+Charmander is attacking with Ember for 3 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 3 with Protect
+Pikachu has received 0 dmg, remaining hp is 5
+Pikachu is attempting to defend with Block
+Charmander is attacking with Scratch for 2 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 2 with Block
+Pikachu has received 0 dmg, remaining hp is 5
+Pikachu is attacking with Thunder Shock for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 5
+Charmander is attempting to defend with Protect
+Pikachu is attempting to defend with Endure
+Charmander is attempting to defend with Protect
+Pikachu is attempting to defend with Endure
+Charmander is attempting to defend with Endure
+Pikachu is attacking with Thunder Shock for 3 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 1 with Endure
+Charmander has received 2 dmg, remaining hp is 3
+Charmander is attempting to defend with Block
+Pikachu is attacking with Thunder for 6 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 2 with Block
+Charmander has received 4 dmg, remaining hp is 0
+Charmander has lost
+Pikachu has won the battle
+Pikachu has won round 2
+Starting tournament round 3 with Vulpix and Pikachu
+Name: Vulpix was invalid and has forfeited the battle
+Vulpix has lost
+Pikachu has won the battle
+Pikachu has won round 3
+Pikachu has won the tournament
+> // tournament with 4 Pokemon
+> tournament,Pikachu,Charmander,Bulbasaur,Squirtle
+Starting tournament round 1 with Pikachu and Charmander
+Pikachu is attacking with Thunder Shock for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 22
+Charmander is attempting to defend with Block
+Pikachu is attacking with Tail Whip for 2 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 2 with Block
+Charmander has received 0 dmg, remaining hp is 22
+Charmander is attacking with Scratch for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 23
+Pikachu is attacking with Tail Whip for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 20
+Charmander is attacking with Attack for 1 damage to Pikachu
+Pikachu has received 1 dmg, remaining hp is 22
+Pikachu is attacking with Thunder for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 14
+Charmander is attacking with Scratch for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 20
+Pikachu is attacking with Growl for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 13
+Charmander is attacking with Flamethrower for 6 damage to Pikachu
+Pikachu has received 6 dmg, remaining hp is 14
+Pikachu is attacking with Growl for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 12
+Charmander is attempting to defend with Block
+Pikachu is attacking with Tail Whip for 2 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 2 with Block
+Charmander has received 0 dmg, remaining hp is 12
+Charmander is attempting to defend with Block
+Pikachu is attempting to defend with Protect
+Charmander is attempting to defend with Endure
+Pikachu is attacking with Tail Whip for 2 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 1 with Endure
+Charmander has received 1 dmg, remaining hp is 11
+Charmander is attacking with Ember for 3 damage to Pikachu
+Pikachu has received 3 dmg, remaining hp is 11
+Pikachu is attempting to defend with Protect
+Charmander is attacking with Ember for 3 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 3 with Protect
+Pikachu has received 0 dmg, remaining hp is 11
+Pikachu is attempting to defend with Block
+Charmander is attacking with Flamethrower for 6 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 2 with Block
+Pikachu has received 4 dmg, remaining hp is 7
+Pikachu is attacking with Thunder Shock for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 8
+Charmander is attempting to defend with Protect
+Pikachu is attempting to defend with Block
+Charmander is attempting to defend with Endure
+Pikachu is attempting to defend with Block
+Charmander is attacking with Scratch for 2 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 2 with Block
+Pikachu has received 0 dmg, remaining hp is 7
+Pikachu is attempting to defend with Endure
+Charmander is attacking with Ember for 3 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 1 with Endure
+Pikachu has received 2 dmg, remaining hp is 5
+Pikachu is attempting to defend with Protect
+Charmander is attacking with Ember for 3 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 3 with Protect
+Pikachu has received 0 dmg, remaining hp is 5
+Pikachu is attempting to defend with Block
+Charmander is attacking with Scratch for 2 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 2 with Block
+Pikachu has received 0 dmg, remaining hp is 5
+Pikachu is attacking with Thunder Shock for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 5
+Charmander is attempting to defend with Protect
+Pikachu is attempting to defend with Endure
+Charmander is attempting to defend with Protect
+Pikachu is attempting to defend with Endure
+Charmander is attempting to defend with Endure
+Pikachu is attacking with Thunder Shock for 3 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 1 with Endure
+Charmander has received 2 dmg, remaining hp is 3
+Charmander is attempting to defend with Block
+Pikachu is attacking with Thunder for 6 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 2 with Block
+Charmander has received 4 dmg, remaining hp is 0
+Charmander has lost
+Pikachu has won the battle
+Pikachu has won round 1
+Starting tournament round 2 with Bulbasaur and Squirtle
+Bulbasaur is attacking with Razor Leaf for 3 damage to Squirtle
+Squirtle has received 3 dmg, remaining hp is 22
+Squirtle is attempting to defend with Block
+Bulbasaur is attacking with Vine Whip for 2 damage to Squirtle
+Squirtle successfully reduced Bulbasaur's damage by 2 with Block
+Squirtle has received 0 dmg, remaining hp is 22
+Squirtle is attacking with Tackle for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 23
+Bulbasaur is attacking with Vine Whip for 2 damage to Squirtle
+Squirtle has received 2 dmg, remaining hp is 20
+Squirtle is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 22
+Bulbasaur is attacking with Leaf Storm for 6 damage to Squirtle
+Squirtle has received 6 dmg, remaining hp is 14
+Squirtle is attacking with Tackle for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 20
+Bulbasaur is attacking with Tackle for 1 damage to Squirtle
+Squirtle has received 1 dmg, remaining hp is 13
+Squirtle is attacking with Hydro Pump for 6 damage to Bulbasaur
+Bulbasaur has received 6 dmg, remaining hp is 14
+Bulbasaur is attacking with Tackle for 1 damage to Squirtle
+Squirtle has received 1 dmg, remaining hp is 12
+Squirtle is attempting to defend with Block
+Bulbasaur is attacking with Vine Whip for 2 damage to Squirtle
+Squirtle successfully reduced Bulbasaur's damage by 2 with Block
+Squirtle has received 0 dmg, remaining hp is 12
+Squirtle is attempting to defend with Block
+Bulbasaur is attempting to defend with Protect
+Squirtle is attempting to defend with Endure
+Bulbasaur is attacking with Vine Whip for 2 damage to Squirtle
+Squirtle successfully reduced Bulbasaur's damage by 1 with Endure
+Squirtle has received 1 dmg, remaining hp is 11
+Squirtle is attacking with Water Gun for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 11
+Bulbasaur is attempting to defend with Protect
+Squirtle is attacking with Water Gun for 3 damage to Bulbasaur
+Bulbasaur successfully reduced Squirtle's damage by 3 with Protect
+Bulbasaur has received 0 dmg, remaining hp is 11
+Bulbasaur is attempting to defend with Block
+Squirtle is attacking with Hydro Pump for 6 damage to Bulbasaur
+Bulbasaur successfully reduced Squirtle's damage by 2 with Block
+Bulbasaur has received 4 dmg, remaining hp is 7
+Bulbasaur is attacking with Razor Leaf for 3 damage to Squirtle
+Squirtle has received 3 dmg, remaining hp is 8
+Squirtle is attempting to defend with Protect
+Bulbasaur is attempting to defend with Block
+Squirtle is attempting to defend with Endure
+Bulbasaur is attempting to defend with Block
+Squirtle is attacking with Tackle for 2 damage to Bulbasaur
+Bulbasaur successfully reduced Squirtle's damage by 2 with Block
+Bulbasaur has received 0 dmg, remaining hp is 7
+Bulbasaur is attempting to defend with Endure
+Squirtle is attacking with Water Gun for 3 damage to Bulbasaur
+Bulbasaur successfully reduced Squirtle's damage by 1 with Endure
+Bulbasaur has received 2 dmg, remaining hp is 5
+Bulbasaur is attempting to defend with Protect
+Squirtle is attacking with Water Gun for 3 damage to Bulbasaur
+Bulbasaur successfully reduced Squirtle's damage by 3 with Protect
+Bulbasaur has received 0 dmg, remaining hp is 5
+Bulbasaur is attempting to defend with Block
+Squirtle is attacking with Tackle for 2 damage to Bulbasaur
+Bulbasaur successfully reduced Squirtle's damage by 2 with Block
+Bulbasaur has received 0 dmg, remaining hp is 5
+Bulbasaur is attacking with Razor Leaf for 3 damage to Squirtle
+Squirtle has received 3 dmg, remaining hp is 5
+Squirtle is attempting to defend with Protect
+Bulbasaur is attempting to defend with Endure
+Squirtle is attempting to defend with Protect
+Bulbasaur is attempting to defend with Endure
+Squirtle is attempting to defend with Endure
+Bulbasaur is attacking with Razor Leaf for 3 damage to Squirtle
+Squirtle successfully reduced Bulbasaur's damage by 1 with Endure
+Squirtle has received 2 dmg, remaining hp is 3
+Squirtle is attempting to defend with Block
+Bulbasaur is attacking with Leaf Storm for 6 damage to Squirtle
+Squirtle successfully reduced Bulbasaur's damage by 2 with Block
+Squirtle has received 4 dmg, remaining hp is 0
+Squirtle has lost
+Bulbasaur has won the battle
+Bulbasaur has won round 2
+Starting tournament round 3 with Pikachu and Bulbasaur
+Pikachu is attacking with Thunder Shock for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 22
+Bulbasaur is attempting to defend with Block
+Pikachu is attacking with Tail Whip for 2 damage to Bulbasaur
+Bulbasaur successfully reduced Pikachu's damage by 2 with Block
+Bulbasaur has received 0 dmg, remaining hp is 22
+Bulbasaur is attacking with Vine Whip for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 23
+Pikachu is attacking with Tail Whip for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 20
+Bulbasaur is attacking with Tackle for 1 damage to Pikachu
+Pikachu has received 1 dmg, remaining hp is 22
+Pikachu is attacking with Thunder for 6 damage to Bulbasaur
+Bulbasaur has received 6 dmg, remaining hp is 14
+Bulbasaur is attacking with Vine Whip for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 20
+Pikachu is attacking with Growl for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 13
+Bulbasaur is attacking with Leaf Storm for 6 damage to Pikachu
+Pikachu has received 6 dmg, remaining hp is 14
+Pikachu is attacking with Growl for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 12
+Bulbasaur is attempting to defend with Block
+Pikachu is attacking with Tail Whip for 2 damage to Bulbasaur
+Bulbasaur successfully reduced Pikachu's damage by 2 with Block
+Bulbasaur has received 0 dmg, remaining hp is 12
+Bulbasaur is attempting to defend with Block
+Pikachu is attempting to defend with Protect
+Bulbasaur is attempting to defend with Endure
+Pikachu is attacking with Tail Whip for 2 damage to Bulbasaur
+Bulbasaur successfully reduced Pikachu's damage by 1 with Endure
+Bulbasaur has received 1 dmg, remaining hp is 11
+Bulbasaur is attacking with Razor Leaf for 3 damage to Pikachu
+Pikachu has received 3 dmg, remaining hp is 11
+Pikachu is attempting to defend with Protect
+Bulbasaur is attacking with Razor Leaf for 3 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 3 with Protect
+Pikachu has received 0 dmg, remaining hp is 11
+Pikachu is attempting to defend with Block
+Bulbasaur is attacking with Leaf Storm for 6 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 2 with Block
+Pikachu has received 4 dmg, remaining hp is 7
+Pikachu is attacking with Thunder Shock for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 8
+Bulbasaur is attempting to defend with Protect
+Pikachu is attempting to defend with Block
+Bulbasaur is attempting to defend with Endure
+Pikachu is attempting to defend with Block
+Bulbasaur is attacking with Vine Whip for 2 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 2 with Block
+Pikachu has received 0 dmg, remaining hp is 7
+Pikachu is attempting to defend with Endure
+Bulbasaur is attacking with Razor Leaf for 3 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 1 with Endure
+Pikachu has received 2 dmg, remaining hp is 5
+Pikachu is attempting to defend with Protect
+Bulbasaur is attacking with Razor Leaf for 3 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 3 with Protect
+Pikachu has received 0 dmg, remaining hp is 5
+Pikachu is attempting to defend with Block
+Bulbasaur is attacking with Vine Whip for 2 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 2 with Block
+Pikachu has received 0 dmg, remaining hp is 5
+Pikachu is attacking with Thunder Shock for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 5
+Bulbasaur is attempting to defend with Protect
+Pikachu is attempting to defend with Endure
+Bulbasaur is attempting to defend with Protect
+Pikachu is attempting to defend with Endure
+Bulbasaur is attempting to defend with Endure
+Pikachu is attacking with Thunder Shock for 3 damage to Bulbasaur
+Bulbasaur successfully reduced Pikachu's damage by 1 with Endure
+Bulbasaur has received 2 dmg, remaining hp is 3
+Bulbasaur is attempting to defend with Block
+Pikachu is attacking with Thunder for 6 damage to Bulbasaur
+Bulbasaur successfully reduced Pikachu's damage by 2 with Block
+Bulbasaur has received 4 dmg, remaining hp is 0
+Bulbasaur has lost
+Pikachu has won the battle
+Pikachu has won round 3
+Pikachu has won the tournament
+> //stop
+> stop
+stop acknowledged
+simulation terminated

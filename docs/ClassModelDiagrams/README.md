@@ -1,0 +1,1 @@
+Please kindly put your individual class model diagrams into this folder

@@ -1,0 +1,6 @@
+// set the seed to 5
+setseed,5
+// battle between Charmander & Squirtle
+battle,Charmander,Squirtle
+// stop
+stop

@@ -1,0 +1,56 @@
+Welcome to the thunder dome!
+> // set the seed to 30
+> setseed,30
+> // battle between Bulbasaur & Squirtle
+> battle,Bulbasaur,Squirtle
+Bulbasaur is attacking with Tackle for 1 damage to Squirtle
+Squirtle has received 1 dmg, remaining hp is 24
+Squirtle is attacking with Tackle for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 23
+Bulbasaur is attacking with Leaf Storm for 6 damage to Squirtle
+Squirtle has received 6 dmg, remaining hp is 18
+Squirtle is attacking with Water Gun for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 20
+Bulbasaur is attacking with Leaf Storm for 6 damage to Squirtle
+Squirtle has received 6 dmg, remaining hp is 12
+Squirtle is attempting to defend with Block
+Bulbasaur is attacking with Leaf Storm for 6 damage to Squirtle
+Squirtle successfully reduced Bulbasaur's damage by 2 with Block
+Squirtle has received 4 dmg, remaining hp is 8
+Squirtle is attacking with Tackle for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 18
+Bulbasaur is attacking with Tackle for 1 damage to Squirtle
+Squirtle has received 1 dmg, remaining hp is 7
+Squirtle is attempting to defend with Endure
+Bulbasaur is attempting to defend with Protect
+Squirtle is attempting to defend with Endure
+Bulbasaur is attacking with Vine Whip for 2 damage to Squirtle
+Squirtle successfully reduced Bulbasaur's damage by 1 with Endure
+Squirtle has received 1 dmg, remaining hp is 6
+Squirtle is attacking with Hydro Pump for 6 damage to Bulbasaur
+Bulbasaur has received 6 dmg, remaining hp is 12
+Bulbasaur is attacking with Razor Leaf for 3 damage to Squirtle
+Squirtle has received 3 dmg, remaining hp is 3
+Squirtle is attempting to defend with Block
+Bulbasaur is attempting to defend with Protect
+Squirtle is attempting to defend with Protect
+Bulbasaur is attacking with Vine Whip for 2 damage to Squirtle
+Squirtle successfully reduced Bulbasaur's damage by 3 with Protect
+Squirtle has received 0 dmg, remaining hp is 3
+Squirtle is attempting to defend with Block
+Bulbasaur is attempting to defend with Block
+Squirtle is attacking with Tackle for 2 damage to Bulbasaur
+Bulbasaur successfully reduced Squirtle's damage by 2 with Block
+Bulbasaur has received 0 dmg, remaining hp is 12
+Bulbasaur is attempting to defend with Protect
+Squirtle is attacking with Tackle for 2 damage to Bulbasaur
+Bulbasaur successfully reduced Squirtle's damage by 3 with Protect
+Bulbasaur has received 0 dmg, remaining hp is 12
+Bulbasaur is attacking with Razor Leaf for 3 damage to Squirtle
+Squirtle has received 3 dmg, remaining hp is 0
+Squirtle has lost
+Bulbasaur has won the battle
+> // stop
+> stop
+stop acknowledged
+simulation terminated

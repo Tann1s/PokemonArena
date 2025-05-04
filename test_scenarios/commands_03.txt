@@ -1,0 +1,6 @@
+// set the seed to 20
+setseed,20
+// battle between Pikachu & Charmander
+battle,Pikachu,Charmander
+// stop
+stop

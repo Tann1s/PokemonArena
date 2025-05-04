@@ -1,0 +1,20 @@
+// set the seed to 87
+// display info
+displayinfo,Pikachu
+setseed,87
+// battle between 2 Pokemon
+battle,Pikachu,Ekans
+// battle between 2 Pokemon
+battle,Ekans,Charmander
+// battle between 3 pokemon
+battle,Ekans,Rattata,Bulbasaur
+// tournament with 1 Pokemon
+tournament,Ekans
+// tournament with 3 Pokemon
+tournament,Ekans,Pikachu,Vulpix
+// tournament with 4 Pokemon
+tournament,Ekans,Vulpix,Pikachu,Charmander
+// tournament with 4 Pokemon
+tournament,Pikachu,Charmander,Bulbasaur,Squirtle
+//stop
+stop

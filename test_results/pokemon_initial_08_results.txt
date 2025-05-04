@@ -1,0 +1,502 @@
+Welcome to the thunder dome!
+> // set the seed to 1
+> setseed,1
+> // battle between Ditto & Bulbasaur
+> battle,Ditto,Bulbasaur
+Ditto is attacking with Transform for 0 damage to Bulbasaur
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto has received 2 dmg, remaining hp is 33
+Ditto is attacking with Attack for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 23
+Bulbasaur is attempting to defend with Block
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto has received 6 dmg, remaining hp is 27
+Ditto is attacking with Attack for 6 damage to Bulbasaur
+Bulbasaur has received 6 dmg, remaining hp is 17
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 26
+Ditto is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 16
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto has received 6 dmg, remaining hp is 20
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Endure
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 19
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 0 dmg, remaining hp is 19
+Ditto is attempting to defend with Protect
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 3 with Protect
+Ditto has received 3 dmg, remaining hp is 16
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 1 dmg, remaining hp is 15
+Ditto is attacking with Attack for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 14
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Block
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 1 dmg, remaining hp is 14
+Ditto is attacking with Attack for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 11
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto has received 3 dmg, remaining hp is 11
+Ditto is attempting to defend with Protect
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto has received 6 dmg, remaining hp is 5
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 0 dmg, remaining hp is 5
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Block
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 2 dmg, remaining hp is 3
+Ditto is attempting to defend with Protect
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Endure
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 2 dmg, remaining hp is 1
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 1 dmg, remaining hp is 0
+Ditto has lost
+Bulbasaur has won the battle
+> // set the seed to 2
+> setseed,2
+> // battle between Ditto & Bulbasaur
+> battle,Ditto,Bulbasaur
+Ditto is attacking with Transform for 0 damage to Bulbasaur
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto has received 3 dmg, remaining hp is 32
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Block
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto has received 3 dmg, remaining hp is 29
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 2 dmg, remaining hp is 27
+Ditto is attacking with Attack for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 22
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto has received 6 dmg, remaining hp is 21
+Ditto is attacking with Attack for 6 damage to Bulbasaur
+Bulbasaur has received 6 dmg, remaining hp is 16
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto has received 2 dmg, remaining hp is 19
+Ditto is attacking with Attack for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 14
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 18
+Ditto is attempting to defend with Protect
+Bulbasaur is attempting to defend with Block
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 0 dmg, remaining hp is 18
+Ditto is attempting to defend with Protect
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 3 with Protect
+Ditto has received 3 dmg, remaining hp is 15
+Ditto is attacking with Attack for 6 damage to Bulbasaur
+Bulbasaur has received 6 dmg, remaining hp is 8
+Bulbasaur is attempting to defend with Endure
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto has received 3 dmg, remaining hp is 12
+Ditto is attempting to defend with Protect
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 3 with Protect
+Ditto has received 0 dmg, remaining hp is 12
+Ditto is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 7
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 11
+Ditto is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 6
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto has received 3 dmg, remaining hp is 8
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Endure
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Block
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 4 dmg, remaining hp is 4
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Block
+Ditto is attempting to defend with Endure
+Bulbasaur is attempting to defend with Block
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 0 dmg, remaining hp is 4
+Ditto is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 5
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 1 dmg, remaining hp is 3
+Ditto is attacking with Attack for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 2
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto has received 2 dmg, remaining hp is 1
+Ditto is attacking with Attack for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 0
+Bulbasaur has lost
+Ditto has won the battle
+> // set the seed to 3
+> setseed,3
+> // battle between Ditto & Bulbasaur
+> battle,Ditto,Bulbasaur
+Ditto is attacking with Transform for 0 damage to Bulbasaur
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto has received 6 dmg, remaining hp is 29
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 4 dmg, remaining hp is 25
+Ditto is attacking with Attack for 6 damage to Bulbasaur
+Bulbasaur has received 6 dmg, remaining hp is 19
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 24
+Ditto is attempting to defend with Endure
+Bulbasaur is attempting to defend with Block
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 0 dmg, remaining hp is 24
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 5 dmg, remaining hp is 19
+Ditto is attempting to defend with Protect
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 3 with Protect
+Ditto has received 3 dmg, remaining hp is 16
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 1 dmg, remaining hp is 15
+Ditto is attacking with Attack for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 17
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto has received 3 dmg, remaining hp is 12
+Ditto is attacking with Attack for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 14
+Bulbasaur is attempting to defend with Endure
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto has received 3 dmg, remaining hp is 9
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Block
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 1 dmg, remaining hp is 8
+Ditto is attempting to defend with Protect
+Bulbasaur is attempting to defend with Endure
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 7
+Ditto is attempting to defend with Protect
+Bulbasaur is attempting to defend with Endure
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Protect
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 3 with Protect
+Ditto has received 0 dmg, remaining hp is 7
+Ditto is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 13
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Endure
+Bulbasaur is attempting to defend with Block
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto has received 3 dmg, remaining hp is 4
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 1 dmg, remaining hp is 3
+Ditto is attempting to defend with Endure
+Bulbasaur is attempting to defend with Block
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 0 dmg, remaining hp is 3
+Ditto is attacking with Attack for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 11
+Bulbasaur is attempting to defend with Endure
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 2
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 1 dmg, remaining hp is 1
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 5 dmg, remaining hp is 0
+Ditto has lost
+Bulbasaur has won the battle
+> // set the seed to 4
+> setseed,4
+> // battle between Ditto & Bulbasaur
+> battle,Ditto,Bulbasaur
+Ditto is attacking with Transform for 0 damage to Bulbasaur
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 34
+Ditto is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 24
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto has received 3 dmg, remaining hp is 31
+Ditto is attacking with Attack for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 21
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto has received 6 dmg, remaining hp is 25
+Ditto is attacking with Attack for 6 damage to Bulbasaur
+Bulbasaur has received 6 dmg, remaining hp is 15
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Endure
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto has received 2 dmg, remaining hp is 23
+Ditto is attacking with Attack for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 13
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto has received 6 dmg, remaining hp is 17
+Ditto is attempting to defend with Protect
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 3 with Protect
+Ditto has received 0 dmg, remaining hp is 17
+Ditto is attempting to defend with Protect
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 3 with Protect
+Ditto has received 0 dmg, remaining hp is 17
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 1 dmg, remaining hp is 16
+Ditto is attacking with Attack for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 11
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto has received 2 dmg, remaining hp is 14
+Ditto is attacking with Attack for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 9
+Bulbasaur is attempting to defend with Block
+Ditto is attempting to defend with Endure
+Bulbasaur is attempting to defend with Endure
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto has received 3 dmg, remaining hp is 11
+Ditto is attacking with Attack for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 6
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto has received 3 dmg, remaining hp is 8
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 0 dmg, remaining hp is 8
+Ditto is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 5
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto has received 3 dmg, remaining hp is 5
+Ditto is attempting to defend with Endure
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Protect
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 3 with Protect
+Ditto has received 0 dmg, remaining hp is 5
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Endure
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Endure
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Block
+Ditto is attempting to defend with Protect
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Protect
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 2 dmg, remaining hp is 3
+Ditto is attempting to defend with Protect
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 3 with Protect
+Ditto has received 0 dmg, remaining hp is 3
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 1 dmg, remaining hp is 2
+Ditto is attacking with Attack for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 2
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto has received 2 dmg, remaining hp is 0
+Ditto has lost
+Bulbasaur has won the battle
+> // set the seed to 5
+> setseed,5
+> // battle between Ditto & Bulbasaur
+> battle,Ditto,Bulbasaur
+Ditto is attacking with Transform for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Endure
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 34
+Ditto is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 24
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 33
+Ditto is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 23
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 32
+Ditto is attempting to defend with Protect
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 3 with Protect
+Ditto has received 0 dmg, remaining hp is 32
+Ditto is attempting to defend with Protect
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 3 with Protect
+Ditto has received 0 dmg, remaining hp is 32
+Ditto is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 22
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto has received 6 dmg, remaining hp is 26
+Ditto is attacking with Attack for 6 damage to Bulbasaur
+Bulbasaur has received 6 dmg, remaining hp is 16
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Protect
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 3 with Protect
+Ditto has received 0 dmg, remaining hp is 26
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 5 dmg, remaining hp is 21
+Ditto is attacking with Attack for 6 damage to Bulbasaur
+Bulbasaur has received 6 dmg, remaining hp is 10
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 20
+Ditto is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 9
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Block
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto has received 6 dmg, remaining hp is 14
+Ditto is attacking with Attack for 6 damage to Bulbasaur
+Bulbasaur has received 6 dmg, remaining hp is 3
+Bulbasaur is attempting to defend with Block
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Endure
+Bulbasaur is attempting to defend with Block
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Block
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Block
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto has received 2 dmg, remaining hp is 12
+Ditto is attacking with Attack for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 1
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 1 dmg, remaining hp is 11
+Ditto is attempting to defend with Endure
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Block
+Ditto is attempting to defend with Protect
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Endure
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Endure
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Protect
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 2 dmg, remaining hp is 9
+Ditto is attacking with Attack for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 0
+Bulbasaur has lost
+Ditto has won the battle
+> // stop
+> stop
+stop acknowledged
+simulation terminated

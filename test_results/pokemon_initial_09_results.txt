@@ -1,0 +1,705 @@
+Welcome to the thunder dome!
+> // set the seed to 1
+> setseed,1
+> // battle between Ditto & Bulbasaur
+> battle,Ditto,Bulbasaur
+Ditto is attacking with Transform for 0 damage to Bulbasaur
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto has received 2 dmg, remaining hp is 33
+Ditto is attacking with Attack for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 23
+Bulbasaur is attempting to defend with Block
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto has received 6 dmg, remaining hp is 27
+Ditto is attacking with Attack for 6 damage to Bulbasaur
+Bulbasaur has received 6 dmg, remaining hp is 17
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 26
+Ditto is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 16
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto has received 6 dmg, remaining hp is 20
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Endure
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 19
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 0 dmg, remaining hp is 19
+Ditto is attempting to defend with Protect
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 3 with Protect
+Ditto has received 3 dmg, remaining hp is 16
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 1 dmg, remaining hp is 15
+Ditto is attacking with Attack for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 14
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Block
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 1 dmg, remaining hp is 14
+Ditto is attacking with Attack for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 11
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto has received 3 dmg, remaining hp is 11
+Ditto is attempting to defend with Protect
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto has received 6 dmg, remaining hp is 5
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 0 dmg, remaining hp is 5
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Block
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 2 dmg, remaining hp is 3
+Ditto is attempting to defend with Protect
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Endure
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 2 dmg, remaining hp is 1
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 1 dmg, remaining hp is 0
+Ditto has lost
+Bulbasaur has won the battle
+> // battle between Bulbasaur & Ditto
+> battle,Bulbasaur,Ditto
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 34
+Ditto is attacking with Transform for 0 damage to Bulbasaur
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto has received 2 dmg, remaining hp is 32
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 0 dmg, remaining hp is 32
+Ditto is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 24
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto has received 3 dmg, remaining hp is 29
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 2 dmg, remaining hp is 27
+Ditto is attacking with Attack for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 21
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 26
+Ditto is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 20
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 25
+Ditto is attacking with Attack for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 19
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto has received 3 dmg, remaining hp is 22
+Ditto is attempting to defend with Protect
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 3 with Protect
+Ditto has received 3 dmg, remaining hp is 19
+Ditto is attempting to defend with Endure
+Bulbasaur is attacking with Vine Whip for 2 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 1 with Endure
+Ditto has received 1 dmg, remaining hp is 18
+Ditto is attempting to defend with Protect
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 3 with Protect
+Ditto has received 3 dmg, remaining hp is 15
+Ditto is attacking with Attack for 6 damage to Bulbasaur
+Bulbasaur has received 6 dmg, remaining hp is 13
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Protect
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 3 with Protect
+Ditto has received 3 dmg, remaining hp is 12
+Ditto is attacking with Attack for 6 damage to Bulbasaur
+Bulbasaur has received 6 dmg, remaining hp is 7
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto has received 3 dmg, remaining hp is 9
+Ditto is attacking with Attack for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 4
+Bulbasaur is attempting to defend with Block
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Block
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Razor Leaf for 3 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 1 dmg, remaining hp is 8
+Ditto is attempting to defend with Endure
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Protect
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Tackle for 1 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 0 dmg, remaining hp is 8
+Ditto is attempting to defend with Block
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto successfully reduced Bulbasaur's damage by 2 with Block
+Ditto has received 4 dmg, remaining hp is 4
+Ditto is attempting to defend with Endure
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Protect
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Endure
+Ditto is attempting to defend with Block
+Bulbasaur is attempting to defend with Endure
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attempting to defend with Block
+Ditto is attacking with Attack for 0 damage to Bulbasaur
+Bulbasaur is attacking with Leaf Storm for 6 damage to Ditto
+Ditto has received 6 dmg, remaining hp is 0
+Ditto has lost
+Bulbasaur has won the battle
+> // battle between Pkkachu & Charmander
+> battle,Pikachu,Charmander
+Pikachu is attacking with Growl for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 24
+Charmander is attacking with Scratch for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 23
+Pikachu is attacking with Tail Whip for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 22
+Charmander is attempting to defend with Block
+Pikachu is attacking with Growl for 1 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 2 with Block
+Charmander has received 0 dmg, remaining hp is 22
+Charmander is attacking with Flamethrower for 6 damage to Pikachu
+Pikachu has received 6 dmg, remaining hp is 17
+Pikachu is attempting to defend with Block
+Charmander is attacking with Attack for 1 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 2 with Block
+Pikachu has received 0 dmg, remaining hp is 17
+Pikachu is attacking with Thunder Shock for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 19
+Charmander is attacking with Flamethrower for 6 damage to Pikachu
+Pikachu has received 6 dmg, remaining hp is 11
+Pikachu is attacking with Growl for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 18
+Charmander is attacking with Scratch for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 9
+Pikachu is attacking with Growl for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 17
+Charmander is attempting to defend with Endure
+Pikachu is attempting to defend with Block
+Charmander is attempting to defend with Protect
+Pikachu is attempting to defend with Endure
+Charmander is attacking with Attack for 1 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 1 with Endure
+Pikachu has received 0 dmg, remaining hp is 9
+Pikachu is attacking with Tail Whip for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 15
+Charmander is attempting to defend with Protect
+Pikachu is attacking with Thunder for 6 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 3 with Protect
+Charmander has received 3 dmg, remaining hp is 12
+Charmander is attacking with Attack for 1 damage to Pikachu
+Pikachu has received 1 dmg, remaining hp is 8
+Pikachu is attempting to defend with Protect
+Charmander is attacking with Flamethrower for 6 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 3 with Protect
+Pikachu has received 3 dmg, remaining hp is 5
+Pikachu is attempting to defend with Protect
+Charmander is attacking with Scratch for 2 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 3 with Protect
+Pikachu has received 0 dmg, remaining hp is 5
+Pikachu is attacking with Thunder for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 6
+Charmander is attempting to defend with Protect
+Pikachu is attacking with Thunder Shock for 3 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 6
+Charmander is attempting to defend with Block
+Pikachu is attempting to defend with Block
+Charmander is attacking with Ember for 3 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 2 with Block
+Pikachu has received 1 dmg, remaining hp is 4
+Pikachu is attempting to defend with Block
+Charmander is attacking with Ember for 3 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 2 with Block
+Pikachu has received 1 dmg, remaining hp is 3
+Pikachu is attempting to defend with Endure
+Charmander is attempting to defend with Protect
+Pikachu is attacking with Thunder Shock for 3 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 6
+Charmander is attacking with Flamethrower for 6 damage to Pikachu
+Pikachu has received 6 dmg, remaining hp is 0
+Pikachu has lost
+Charmander has won the battle
+> // battle between Charmander & Pikachu
+> battle,Charmander,Pikachu
+Charmander is attacking with Attack for 1 damage to Pikachu
+Pikachu has received 1 dmg, remaining hp is 24
+Pikachu is attacking with Tail Whip for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 23
+Charmander is attacking with Scratch for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 22
+Pikachu is attempting to defend with Block
+Charmander is attacking with Attack for 1 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 2 with Block
+Pikachu has received 0 dmg, remaining hp is 22
+Pikachu is attacking with Thunder for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 17
+Charmander is attempting to defend with Block
+Pikachu is attacking with Growl for 1 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 2 with Block
+Charmander has received 0 dmg, remaining hp is 17
+Charmander is attacking with Ember for 3 damage to Pikachu
+Pikachu has received 3 dmg, remaining hp is 19
+Pikachu is attacking with Thunder for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 11
+Charmander is attacking with Attack for 1 damage to Pikachu
+Pikachu has received 1 dmg, remaining hp is 18
+Pikachu is attacking with Tail Whip for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 9
+Charmander is attacking with Attack for 1 damage to Pikachu
+Pikachu has received 1 dmg, remaining hp is 17
+Pikachu is attempting to defend with Endure
+Charmander is attempting to defend with Block
+Pikachu is attempting to defend with Protect
+Charmander is attempting to defend with Endure
+Pikachu is attacking with Growl for 1 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 1 with Endure
+Charmander has received 0 dmg, remaining hp is 9
+Charmander is attacking with Scratch for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 15
+Pikachu is attempting to defend with Protect
+Charmander is attacking with Flamethrower for 6 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 3 with Protect
+Pikachu has received 3 dmg, remaining hp is 12
+Pikachu is attacking with Growl for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 8
+Charmander is attempting to defend with Protect
+Pikachu is attacking with Thunder for 6 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 3 with Protect
+Charmander has received 3 dmg, remaining hp is 5
+Charmander is attempting to defend with Protect
+Pikachu is attacking with Tail Whip for 2 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 5
+Charmander is attacking with Flamethrower for 6 damage to Pikachu
+Pikachu has received 6 dmg, remaining hp is 6
+Pikachu is attempting to defend with Protect
+Charmander is attacking with Ember for 3 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 3 with Protect
+Pikachu has received 0 dmg, remaining hp is 6
+Pikachu is attempting to defend with Block
+Charmander is attempting to defend with Block
+Pikachu is attacking with Thunder Shock for 3 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 2 with Block
+Charmander has received 1 dmg, remaining hp is 4
+Charmander is attempting to defend with Block
+Pikachu is attacking with Thunder Shock for 3 damage to Charmander
+Charmander successfully reduced Pikachu's damage by 2 with Block
+Charmander has received 1 dmg, remaining hp is 3
+Charmander is attempting to defend with Endure
+Pikachu is attempting to defend with Protect
+Charmander is attacking with Ember for 3 damage to Pikachu
+Pikachu successfully reduced Charmander's damage by 3 with Protect
+Pikachu has received 0 dmg, remaining hp is 6
+Pikachu is attacking with Thunder for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 0
+Charmander has lost
+Pikachu has won the battle
+> // battle between Mew & Squirtle
+> battle,Mew,Squirtle
+Mew is attacking with Charm for 0 damage to Squirtle
+Squirtle is attacking with Tackle for 2 damage to Mew
+Mew has received 2 dmg, remaining hp is 23
+Mew is attacking with Pound for 1 damage to Squirtle
+Squirtle has received 1 dmg, remaining hp is 24
+Squirtle is attempting to defend with Block
+Mew is attacking with Charm for 0 damage to Squirtle
+Squirtle is attacking with Hydro Pump for 6 damage to Mew
+Mew has received 6 dmg, remaining hp is 17
+Mew is attempting to defend with Block
+Squirtle is attacking with Attack for 1 damage to Mew
+Mew successfully reduced Squirtle's damage by 2 with Block
+Mew has received 0 dmg, remaining hp is 17
+Mew is attacking with Imprison for 2 damage to Squirtle
+Squirtle has received 2 dmg, remaining hp is 22
+Squirtle is attacking with Hydro Pump for 6 damage to Mew
+Mew has received 6 dmg, remaining hp is 11
+Mew is attacking with Charm for 0 damage to Squirtle
+Squirtle is attacking with Tackle for 2 damage to Mew
+Mew has received 2 dmg, remaining hp is 9
+Mew is attacking with Charm for 0 damage to Squirtle
+Squirtle is attacking with Water Gun for 3 damage to Mew
+Mew has received 3 dmg, remaining hp is 6
+Mew is attempting to defend with Block
+Squirtle is attacking with Hydro Pump for 6 damage to Mew
+Mew successfully reduced Squirtle's damage by 2 with Block
+Mew has received 4 dmg, remaining hp is 2
+Mew is attempting to defend with Endure
+Squirtle is attacking with Attack for 1 damage to Mew
+Mew successfully reduced Squirtle's damage by 1 with Endure
+Mew has received 0 dmg, remaining hp is 2
+Mew is attempting to defend with Protect
+Squirtle is attempting to defend with Protect
+Mew is attempting to defend with Protect
+Squirtle is attacking with Attack for 1 damage to Mew
+Mew successfully reduced Squirtle's damage by 3 with Protect
+Mew has received 0 dmg, remaining hp is 2
+Mew is attempting to defend with Protect
+Squirtle is attacking with Hydro Pump for 6 damage to Mew
+Mew successfully reduced Squirtle's damage by 3 with Protect
+Mew has received 3 dmg, remaining hp is 0
+Mew has lost
+Squirtle has won the battle
+> // battle between Squirtle & Mew
+> battle,Squirtle,Mew
+Squirtle is attacking with Attack for 1 damage to Mew
+Mew has received 1 dmg, remaining hp is 24
+Mew is attacking with Pound for 1 damage to Squirtle
+Squirtle has received 1 dmg, remaining hp is 24
+Squirtle is attacking with Tackle for 2 damage to Mew
+Mew has received 2 dmg, remaining hp is 22
+Mew is attempting to defend with Block
+Squirtle is attacking with Attack for 1 damage to Mew
+Mew successfully reduced Squirtle's damage by 2 with Block
+Mew has received 0 dmg, remaining hp is 22
+Mew is attacking with Psychic for 15 damage to Squirtle
+Squirtle has received 15 dmg, remaining hp is 9
+Squirtle is attempting to defend with Block
+Mew is attacking with Charm for 0 damage to Squirtle
+Squirtle is attacking with Water Gun for 3 damage to Mew
+Mew has received 3 dmg, remaining hp is 19
+Mew is attacking with Psychic for 15 damage to Squirtle
+Squirtle has received 15 dmg, remaining hp is 0
+Squirtle has lost
+Mew has won the battle
+> // battle between Geodude & Squirtle
+> battle,Geodude,Squirtle
+Geodude is attacking with Tackle for 1 damage to Squirtle
+Squirtle has received 1 dmg, remaining hp is 24
+Squirtle is attacking with Tackle for 2 damage to Geodude
+Geodude has received 2 dmg, remaining hp is 23
+Geodude is attacking with Rock Throw for 2 damage to Squirtle
+Squirtle has received 2 dmg, remaining hp is 22
+Squirtle is attempting to defend with Block
+Geodude is attacking with Tackle for 1 damage to Squirtle
+Squirtle successfully reduced Geodude's damage by 2 with Block
+Squirtle has received 0 dmg, remaining hp is 22
+Squirtle is attacking with Hydro Pump for 6 damage to Geodude
+Geodude has received 6 dmg, remaining hp is 17
+Geodude is attempting to defend with Block
+Squirtle is attacking with Attack for 1 damage to Geodude
+Geodude successfully reduced Squirtle's damage by 2 with Block
+Geodude has received 0 dmg, remaining hp is 17
+Geodude is attacking with Earth Quake for 3 damage to Squirtle
+Squirtle has received 3 dmg, remaining hp is 19
+Squirtle is attacking with Hydro Pump for 6 damage to Geodude
+Geodude has received 6 dmg, remaining hp is 11
+Geodude is attacking with Tackle for 1 damage to Squirtle
+Squirtle has received 1 dmg, remaining hp is 18
+Squirtle is attacking with Tackle for 2 damage to Geodude
+Geodude has received 2 dmg, remaining hp is 9
+Geodude is attacking with Tackle for 1 damage to Squirtle
+Squirtle has received 1 dmg, remaining hp is 17
+Squirtle is attempting to defend with Endure
+Geodude is attempting to defend with Block
+Squirtle is attempting to defend with Protect
+Geodude is attempting to defend with Endure
+Squirtle is attacking with Attack for 1 damage to Geodude
+Geodude successfully reduced Squirtle's damage by 1 with Endure
+Geodude has received 0 dmg, remaining hp is 9
+Geodude is attacking with Rock Throw for 2 damage to Squirtle
+Squirtle has received 2 dmg, remaining hp is 15
+Squirtle is attempting to defend with Protect
+Geodude is attacking with Rock Slide for 6 damage to Squirtle
+Squirtle successfully reduced Geodude's damage by 3 with Protect
+Squirtle has received 3 dmg, remaining hp is 12
+Squirtle is attacking with Attack for 1 damage to Geodude
+Geodude has received 1 dmg, remaining hp is 8
+Geodude is attempting to defend with Protect
+Squirtle is attacking with Hydro Pump for 6 damage to Geodude
+Geodude successfully reduced Squirtle's damage by 3 with Protect
+Geodude has received 3 dmg, remaining hp is 5
+Geodude is attempting to defend with Protect
+Squirtle is attacking with Tackle for 2 damage to Geodude
+Geodude successfully reduced Squirtle's damage by 3 with Protect
+Geodude has received 0 dmg, remaining hp is 5
+Geodude is attacking with Rock Slide for 6 damage to Squirtle
+Squirtle has received 6 dmg, remaining hp is 6
+Squirtle is attempting to defend with Protect
+Geodude is attacking with Earth Quake for 3 damage to Squirtle
+Squirtle successfully reduced Geodude's damage by 3 with Protect
+Squirtle has received 0 dmg, remaining hp is 6
+Squirtle is attempting to defend with Block
+Geodude is attempting to defend with Block
+Squirtle is attacking with Water Gun for 3 damage to Geodude
+Geodude successfully reduced Squirtle's damage by 2 with Block
+Geodude has received 1 dmg, remaining hp is 4
+Geodude is attempting to defend with Block
+Squirtle is attacking with Water Gun for 3 damage to Geodude
+Geodude successfully reduced Squirtle's damage by 2 with Block
+Geodude has received 1 dmg, remaining hp is 3
+Geodude is attempting to defend with Endure
+Squirtle is attempting to defend with Protect
+Geodude is attacking with Earth Quake for 3 damage to Squirtle
+Squirtle successfully reduced Geodude's damage by 3 with Protect
+Squirtle has received 0 dmg, remaining hp is 6
+Squirtle is attacking with Hydro Pump for 6 damage to Geodude
+Geodude has received 6 dmg, remaining hp is 0
+Geodude has lost
+Squirtle has won the battle
+> // battle between Squirtle & Geodude
+> battle,Squirtle,Geodude
+Squirtle is attacking with Attack for 1 damage to Geodude
+Geodude has received 1 dmg, remaining hp is 24
+Geodude is attacking with Rock Throw for 2 damage to Squirtle
+Squirtle has received 2 dmg, remaining hp is 23
+Squirtle is attacking with Tackle for 2 damage to Geodude
+Geodude has received 2 dmg, remaining hp is 22
+Geodude is attempting to defend with Block
+Squirtle is attacking with Attack for 1 damage to Geodude
+Geodude successfully reduced Squirtle's damage by 2 with Block
+Geodude has received 0 dmg, remaining hp is 22
+Geodude is attacking with Rock Slide for 6 damage to Squirtle
+Squirtle has received 6 dmg, remaining hp is 17
+Squirtle is attempting to defend with Block
+Geodude is attacking with Tackle for 1 damage to Squirtle
+Squirtle successfully reduced Geodude's damage by 2 with Block
+Squirtle has received 0 dmg, remaining hp is 17
+Squirtle is attacking with Water Gun for 3 damage to Geodude
+Geodude has received 3 dmg, remaining hp is 19
+Geodude is attacking with Rock Slide for 6 damage to Squirtle
+Squirtle has received 6 dmg, remaining hp is 11
+Squirtle is attacking with Attack for 1 damage to Geodude
+Geodude has received 1 dmg, remaining hp is 18
+Geodude is attacking with Rock Throw for 2 damage to Squirtle
+Squirtle has received 2 dmg, remaining hp is 9
+Squirtle is attacking with Attack for 1 damage to Geodude
+Geodude has received 1 dmg, remaining hp is 17
+Geodude is attempting to defend with Endure
+Squirtle is attempting to defend with Block
+Geodude is attempting to defend with Protect
+Squirtle is attempting to defend with Endure
+Geodude is attacking with Tackle for 1 damage to Squirtle
+Squirtle successfully reduced Geodude's damage by 1 with Endure
+Squirtle has received 0 dmg, remaining hp is 9
+Squirtle is attacking with Tackle for 2 damage to Geodude
+Geodude has received 2 dmg, remaining hp is 15
+Geodude is attempting to defend with Protect
+Squirtle is attacking with Hydro Pump for 6 damage to Geodude
+Geodude successfully reduced Squirtle's damage by 3 with Protect
+Geodude has received 3 dmg, remaining hp is 12
+Geodude is attacking with Tackle for 1 damage to Squirtle
+Squirtle has received 1 dmg, remaining hp is 8
+Squirtle is attempting to defend with Protect
+Geodude is attacking with Rock Slide for 6 damage to Squirtle
+Squirtle successfully reduced Geodude's damage by 3 with Protect
+Squirtle has received 3 dmg, remaining hp is 5
+Squirtle is attempting to defend with Protect
+Geodude is attacking with Rock Throw for 2 damage to Squirtle
+Squirtle successfully reduced Geodude's damage by 3 with Protect
+Squirtle has received 0 dmg, remaining hp is 5
+Squirtle is attacking with Hydro Pump for 6 damage to Geodude
+Geodude has received 6 dmg, remaining hp is 6
+Geodude is attempting to defend with Protect
+Squirtle is attacking with Water Gun for 3 damage to Geodude
+Geodude successfully reduced Squirtle's damage by 3 with Protect
+Geodude has received 0 dmg, remaining hp is 6
+Geodude is attempting to defend with Block
+Squirtle is attempting to defend with Block
+Geodude is attacking with Earth Quake for 3 damage to Squirtle
+Squirtle successfully reduced Geodude's damage by 2 with Block
+Squirtle has received 1 dmg, remaining hp is 4
+Squirtle is attempting to defend with Block
+Geodude is attacking with Earth Quake for 3 damage to Squirtle
+Squirtle successfully reduced Geodude's damage by 2 with Block
+Squirtle has received 1 dmg, remaining hp is 3
+Squirtle is attempting to defend with Endure
+Geodude is attempting to defend with Protect
+Squirtle is attacking with Water Gun for 3 damage to Geodude
+Geodude successfully reduced Squirtle's damage by 3 with Protect
+Geodude has received 0 dmg, remaining hp is 6
+Geodude is attacking with Rock Slide for 6 damage to Squirtle
+Squirtle has received 6 dmg, remaining hp is 0
+Squirtle has lost
+Geodude has won the battle
+> // battle between Snorlax & Charmander
+> battle,Snorlax,Charmander
+Snorlax is attacking with Rest for 0 damage to Charmander
+Charmander is attacking with Scratch for 2 damage to Snorlax
+Snorlax has received 2 dmg, remaining hp is 38
+Snorlax is attacking with Rest for 0 damage to Charmander
+Charmander is attempting to defend with Block
+Snorlax is attacking with Rest for 0 damage to Charmander
+Charmander is attacking with Flamethrower for 6 damage to Snorlax
+Snorlax has received 6 dmg, remaining hp is 32
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 19
+Charmander is attacking with Attack for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 31
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 13
+Charmander is attacking with Flamethrower for 6 damage to Snorlax
+Snorlax has received 6 dmg, remaining hp is 25
+Snorlax is attacking with Rest for 0 damage to Charmander
+Charmander is attempting to defend with Protect
+Snorlax is attacking with Rest for 0 damage to Charmander
+Charmander is attempting to defend with Endure
+Snorlax is attempting to defend with Block
+Charmander is attempting to defend with Protect
+Snorlax is attempting to defend with Endure
+Charmander is attacking with Attack for 1 damage to Snorlax
+Snorlax successfully reduced Charmander's damage by 1 with Endure
+Snorlax has received 0 dmg, remaining hp is 25
+Snorlax is attacking with Rest for 0 damage to Charmander
+Charmander is attempting to defend with Protect
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander successfully reduced Snorlax's damage by 3 with Protect
+Charmander has received 3 dmg, remaining hp is 10
+Charmander is attacking with Attack for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 24
+Snorlax is attempting to defend with Protect
+Charmander is attacking with Flamethrower for 6 damage to Snorlax
+Snorlax successfully reduced Charmander's damage by 3 with Protect
+Snorlax has received 3 dmg, remaining hp is 21
+Snorlax is attempting to defend with Protect
+Charmander is attacking with Scratch for 2 damage to Snorlax
+Snorlax successfully reduced Charmander's damage by 3 with Protect
+Snorlax has received 0 dmg, remaining hp is 21
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 4
+Charmander is attempting to defend with Protect
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander successfully reduced Snorlax's damage by 3 with Protect
+Charmander has received 3 dmg, remaining hp is 1
+Charmander is attempting to defend with Block
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander successfully reduced Snorlax's damage by 2 with Block
+Charmander has received 4 dmg, remaining hp is 0
+Charmander has lost
+Snorlax has won the battle
+> // battle between Charmander & Snorlax
+> battle,Charmander,Snorlax
+Charmander is attacking with Attack for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 39
+Snorlax is attacking with Rest for 0 damage to Charmander
+Charmander is attacking with Scratch for 2 damage to Snorlax
+Snorlax has received 2 dmg, remaining hp is 37
+Snorlax is attempting to defend with Block
+Charmander is attacking with Attack for 1 damage to Snorlax
+Snorlax successfully reduced Charmander's damage by 2 with Block
+Snorlax has received 0 dmg, remaining hp is 37
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 19
+Charmander is attacking with Ember for 3 damage to Snorlax
+Snorlax has received 3 dmg, remaining hp is 34
+Snorlax is attacking with Rest for 0 damage to Charmander
+Charmander is attacking with Ember for 3 damage to Snorlax
+Snorlax has received 3 dmg, remaining hp is 31
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 13
+Charmander is attacking with Attack for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 30
+Snorlax is attacking with Rest for 0 damage to Charmander
+Charmander is attacking with Attack for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 29
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 7
+Charmander is attempting to defend with Block
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander successfully reduced Snorlax's damage by 2 with Block
+Charmander has received 4 dmg, remaining hp is 3
+Charmander is attempting to defend with Endure
+Snorlax is attacking with Rest for 0 damage to Charmander
+Charmander is attempting to defend with Protect
+Snorlax is attempting to defend with Protect
+Charmander is attempting to defend with Protect
+Snorlax is attacking with Rest for 0 damage to Charmander
+Charmander is attempting to defend with Protect
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander successfully reduced Snorlax's damage by 3 with Protect
+Charmander has received 3 dmg, remaining hp is 0
+Charmander has lost
+Snorlax has won the battle
+> // battle between Snorlax & Slowpoke
+> battle,Snorlax,Slowpoke
+Snorlax is attacking with Rest for 0 damage to Slowpoke
+Slowpoke is attacking with Curse for 2 damage to Snorlax
+Snorlax has received 2 dmg, remaining hp is 38
+Snorlax is attacking with Rest for 0 damage to Slowpoke
+Slowpoke has healed 4 damage with Heal Pulse, remaining hp is 29
+Snorlax is attacking with Rest for 0 damage to Slowpoke
+Slowpoke is attacking with Psychic for 6 damage to Snorlax
+Snorlax has received 6 dmg, remaining hp is 32
+Snorlax is attacking with Snore for 6 damage to Slowpoke
+Slowpoke has received 6 dmg, remaining hp is 23
+Slowpoke is attacking with Tackle for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 31
+Snorlax is attacking with Snore for 6 damage to Slowpoke
+Slowpoke has received 6 dmg, remaining hp is 17
+Slowpoke is attacking with Psychic for 6 damage to Snorlax
+Snorlax has received 6 dmg, remaining hp is 25
+Snorlax is attacking with Rest for 0 damage to Slowpoke
+Slowpoke is attempting to defend with Endure
+Snorlax is attacking with Rest for 0 damage to Slowpoke
+Slowpoke is attempting to defend with Block
+Snorlax is attempting to defend with Block
+Slowpoke is attempting to defend with Protect
+Snorlax is attempting to defend with Endure
+Slowpoke is attacking with Tackle for 1 damage to Snorlax
+Snorlax successfully reduced Slowpoke's damage by 1 with Endure
+Snorlax has received 0 dmg, remaining hp is 25
+Snorlax is attacking with Rest for 0 damage to Slowpoke
+Slowpoke is attempting to defend with Block
+Snorlax is attacking with Snore for 6 damage to Slowpoke
+Slowpoke successfully reduced Snorlax's damage by 2 with Block
+Slowpoke has received 4 dmg, remaining hp is 13
+Slowpoke is attacking with Tackle for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 24
+Snorlax is attempting to defend with Protect
+Slowpoke is attacking with Psychic for 6 damage to Snorlax
+Snorlax successfully reduced Slowpoke's damage by 3 with Protect
+Snorlax has received 3 dmg, remaining hp is 21
+Snorlax is attempting to defend with Protect
+Slowpoke is attacking with Curse for 2 damage to Snorlax
+Snorlax successfully reduced Slowpoke's damage by 3 with Protect
+Snorlax has received 0 dmg, remaining hp is 21
+Snorlax is attacking with Snore for 6 damage to Slowpoke
+Slowpoke has received 6 dmg, remaining hp is 7
+Slowpoke is attempting to defend with Endure
+Snorlax is attacking with Snore for 6 damage to Slowpoke
+Slowpoke successfully reduced Snorlax's damage by 1 with Endure
+Slowpoke has received 5 dmg, remaining hp is 2
+Slowpoke is attempting to defend with Protect
+Snorlax is attacking with Snore for 6 damage to Slowpoke
+Slowpoke successfully reduced Snorlax's damage by 3 with Protect
+Slowpoke has received 3 dmg, remaining hp is 0
+Slowpoke has lost
+Snorlax has won the battle
+> // stop
+> stop
+stop acknowledged
+simulation terminated

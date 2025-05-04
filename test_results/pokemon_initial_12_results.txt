@@ -1,0 +1,55 @@
+Welcome to the thunder dome!
+> // set the seed to 314159265
+> setseed,314159265
+> // battle between Squirtle & Pikachu
+> battle,Squirtle,Pikachu
+Squirtle is attempting to defend with Block
+Pikachu is attacking with Thunder for 6 damage to Squirtle
+Squirtle successfully reduced Pikachu's damage by 2 with Block
+Squirtle has received 4 dmg, remaining hp is 21
+Squirtle is attacking with Water Gun for 3 damage to Pikachu
+Pikachu has received 3 dmg, remaining hp is 22
+Pikachu is attacking with Growl for 1 damage to Squirtle
+Squirtle has received 1 dmg, remaining hp is 20
+Squirtle is attacking with Tackle for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 20
+Pikachu is attempting to defend with Endure
+Squirtle is attacking with Tackle for 2 damage to Pikachu
+Pikachu successfully reduced Squirtle's damage by 1 with Endure
+Pikachu has received 1 dmg, remaining hp is 19
+Pikachu is attempting to defend with Block
+Squirtle is attacking with Water Gun for 3 damage to Pikachu
+Pikachu successfully reduced Squirtle's damage by 2 with Block
+Pikachu has received 1 dmg, remaining hp is 18
+Pikachu is attacking with Thunder Shock for 3 damage to Squirtle
+Squirtle has received 3 dmg, remaining hp is 17
+Squirtle is attacking with Water Gun for 3 damage to Pikachu
+Pikachu has received 3 dmg, remaining hp is 15
+Pikachu is attacking with Growl for 1 damage to Squirtle
+Squirtle has received 1 dmg, remaining hp is 16
+Squirtle is attempting to defend with Protect
+Pikachu is attacking with Thunder for 6 damage to Squirtle
+Squirtle successfully reduced Pikachu's damage by 3 with Protect
+Squirtle has received 3 dmg, remaining hp is 13
+Squirtle is attacking with Tackle for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 13
+Pikachu is attacking with Thunder Shock for 3 damage to Squirtle
+Squirtle has received 3 dmg, remaining hp is 10
+Squirtle is attempting to defend with Block
+Pikachu is attacking with Thunder for 6 damage to Squirtle
+Squirtle successfully reduced Pikachu's damage by 2 with Block
+Squirtle has received 4 dmg, remaining hp is 6
+Squirtle is attempting to defend with Endure
+Pikachu is attacking with Thunder for 6 damage to Squirtle
+Squirtle successfully reduced Pikachu's damage by 1 with Endure
+Squirtle has received 5 dmg, remaining hp is 1
+Squirtle is attacking with Attack for 1 damage to Pikachu
+Pikachu has received 1 dmg, remaining hp is 12
+Pikachu is attacking with Tail Whip for 2 damage to Squirtle
+Squirtle has received 2 dmg, remaining hp is 0
+Squirtle has lost
+Pikachu has won the battle
+> // stop
+> stop
+stop acknowledged
+simulation terminated

@@ -1,0 +1,6 @@
+// set the seed to 314159265
+setseed,314159265
+// battle between Squirtle & Pikachu
+battle,Squirtle,Pikachu
+// stop
+stop

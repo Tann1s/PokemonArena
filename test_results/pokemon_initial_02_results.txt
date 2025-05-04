@@ -1,0 +1,105 @@
+Welcome to the thunder dome!
+> // set the seed to 1
+> setseed,1
+> // remove the seed
+> removeseed
+> // set the seed to 10
+> setseed,10
+> // battle between Bulbasaur & Pikachu
+> battle,Bulbasaur,Pikachu
+Bulbasaur is attacking with Vine Whip for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 23
+Pikachu is attacking with Thunder Shock for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 22
+Bulbasaur is attacking with Vine Whip for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 21
+Pikachu is attempting to defend with Endure
+Bulbasaur is attacking with Razor Leaf for 3 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 1 with Endure
+Pikachu has received 2 dmg, remaining hp is 19
+Pikachu is attacking with Tail Whip for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 20
+Bulbasaur is attacking with Vine Whip for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 17
+Pikachu is attempting to defend with Protect
+Bulbasaur is attempting to defend with Block
+Pikachu is attempting to defend with Protect
+Bulbasaur is attacking with Razor Leaf for 3 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 3 with Protect
+Pikachu has received 0 dmg, remaining hp is 17
+Pikachu is attempting to defend with Endure
+Bulbasaur is attempting to defend with Endure
+Pikachu is attacking with Tail Whip for 2 damage to Bulbasaur
+Bulbasaur successfully reduced Pikachu's damage by 1 with Endure
+Bulbasaur has received 1 dmg, remaining hp is 19
+Bulbasaur is attacking with Vine Whip for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 15
+Pikachu is attempting to defend with Block
+Bulbasaur is attacking with Vine Whip for 2 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 2 with Block
+Pikachu has received 0 dmg, remaining hp is 15
+Pikachu is attempting to defend with Block
+Bulbasaur is attacking with Tackle for 1 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 2 with Block
+Pikachu has received 0 dmg, remaining hp is 15
+Pikachu is attacking with Tail Whip for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 17
+Bulbasaur is attempting to defend with Block
+Pikachu is attacking with Thunder Shock for 3 damage to Bulbasaur
+Bulbasaur successfully reduced Pikachu's damage by 2 with Block
+Bulbasaur has received 1 dmg, remaining hp is 16
+Bulbasaur is attacking with Tackle for 1 damage to Pikachu
+Pikachu has received 1 dmg, remaining hp is 14
+Pikachu is attempting to defend with Block
+Bulbasaur is attacking with Razor Leaf for 3 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 2 with Block
+Pikachu has received 1 dmg, remaining hp is 13
+Pikachu is attacking with Tail Whip for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 14
+Bulbasaur is attempting to defend with Protect
+Pikachu is attempting to defend with Protect
+Bulbasaur is attacking with Tackle for 1 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 3 with Protect
+Pikachu has received 0 dmg, remaining hp is 13
+Pikachu is attempting to defend with Protect
+Bulbasaur is attacking with Razor Leaf for 3 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 3 with Protect
+Pikachu has received 0 dmg, remaining hp is 13
+Pikachu is attacking with Thunder Shock for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 11
+Bulbasaur is attempting to defend with Protect
+Pikachu is attacking with Thunder for 6 damage to Bulbasaur
+Bulbasaur successfully reduced Pikachu's damage by 3 with Protect
+Bulbasaur has received 3 dmg, remaining hp is 8
+Bulbasaur is attacking with Tackle for 1 damage to Pikachu
+Pikachu has received 1 dmg, remaining hp is 12
+Pikachu is attacking with Thunder Shock for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 5
+Bulbasaur is attempting to defend with Block
+Pikachu is attempting to defend with Endure
+Bulbasaur is attempting to defend with Block
+Pikachu is attempting to defend with Endure
+Bulbasaur is attacking with Vine Whip for 2 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 1 with Endure
+Pikachu has received 1 dmg, remaining hp is 11
+Pikachu is attempting to defend with Endure
+Bulbasaur is attempting to defend with Endure
+Pikachu is attempting to defend with Endure
+Bulbasaur is attacking with Tackle for 1 damage to Pikachu
+Pikachu successfully reduced Bulbasaur's damage by 1 with Endure
+Pikachu has received 0 dmg, remaining hp is 11
+Pikachu is attacking with Growl for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 4
+Bulbasaur is attacking with Vine Whip for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 9
+Pikachu is attempting to defend with Block
+Bulbasaur is attempting to defend with Block
+Pikachu is attacking with Thunder for 6 damage to Bulbasaur
+Bulbasaur successfully reduced Pikachu's damage by 2 with Block
+Bulbasaur has received 4 dmg, remaining hp is 0
+Bulbasaur has lost
+Pikachu has won the battle
+> // stop
+> stop
+stop acknowledged
+simulation terminated
