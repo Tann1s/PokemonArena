@@ -1,4 +1,4 @@
-# Pokémon Tournament App (Java + Spring Boot + Docker)
+# Pokémon Tournament App
 
 This repository contains the source code, design documents, and implementation for a Pokémon battle and tournament simulation app.  
 Focus: providing an interactive GUI-based environment for Pokémon battles, tournaments, and training, deployable via Docker containers.
@@ -28,3 +28,13 @@ Large sample battle logs and mock datasets are excluded from the repository.
 
 Development and testing completed.  
 Fully deployable via Docker. GUI functional.
+
+---
+
+#### 🔒 Copyright & Usage Notice
+
+© Ziyi Song. All rights reserved.
+
+The code, documentation, and all associated content in this repository are the intellectual property of the author and may not be copied, redistributed, or used for commercial purposes without prior written consent.  
+This repository is shared publicly for educational and portfolio purposes only.  
+For any inquiries regarding usage, please contact the author directly.
